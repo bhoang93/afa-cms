@@ -1,6 +1,6 @@
 import React from "react";
 import Wrapper from "../components/AppWrapper";
-import Quote from "../Components/Quote";
+import Quote from "../components/Quote";
 
 const clientQuotes = [
   {

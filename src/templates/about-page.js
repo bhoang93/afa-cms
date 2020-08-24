@@ -1,5 +1,5 @@
 import React from "react";
-import Profile from "../Components/Profile";
+import Profile from "../components/Profile";
 import Wrapper from "../components/AppWrapper";
 
 import davidthomas from "../img/AboutUs/David_Thomas.jpg";

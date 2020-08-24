@@ -1,7 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 
-import SocialMediaIcon from "../Components/SocialMediaIcon";
+import SocialMediaIcon from "../components/SocialMediaIcon";
 
 import twitter from "../img/SocialMediaIcons/twitter.svg";
 import instagram from "../img/SocialMediaIcons/instagram.svg";

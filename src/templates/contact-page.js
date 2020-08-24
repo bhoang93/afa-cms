@@ -1,5 +1,5 @@
 import React from "react";
-import ContactForm from "../Components/ContactForm";
+import ContactForm from "../components/ContactForm";
 import email from "../img/Contact/mail4.svg";
 import phone from "../img/Contact/phone.svg";
 import Wrapper from "../components/AppWrapper";
