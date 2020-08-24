@@ -2,7 +2,7 @@ import React from "react";
 
 import { Scrollbars } from "react-custom-scrollbars";
 
-import BlogPost from "../Components/BlogPost";
+import BlogPost from "../components/BlogPost";
 import Wrapper from "../components/AppWrapper";
 
 const News = ({ posts }) => {
