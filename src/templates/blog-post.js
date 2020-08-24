@@ -17,9 +17,9 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
+  slug,
 }) => {
   const PostContent = contentComponent || Content;
-
   return (
     <div className="full-blog-post">
       <h3 className="full-blog-post__heading">{title}</h3>
@@ -37,19 +37,23 @@ export const BlogPostTemplate = ({
         <h3>Share this post</h3>
         <a
           target="_blank"
-          href={`https://www.facebook.com/sharer/sharer.php?u=${window.location.href}`}
+          href={`https://www.facebook.com/sharer/sharer.php?u=${
+            process.env.URL + slug
+          }`}
         >
           <img src={fb} alt="facebook" />
         </a>
         <a
           target="_blank"
-          href={`https://twitter.com/home?status=${window.location.href}`}
+          href={`https://twitter.com/home?status=${process.env.URL + slug}`}
         >
           <img src={twitter} alt="twitter" />
         </a>
         <a
           target="_blank"
-          href={`https://www.linkedin.com/shareArticle?mini=true&url=${window.location.href}`}
+          href={`https://www.linkedin.com/shareArticle?mini=true&url=${
+            process.env.URL + slug
+          }`}
         >
           <img src={linkedIn} alt="twitter" />
         </a>
@@ -64,10 +68,11 @@ export const BlogPostTemplate = ({
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data;
-
+  console.log(post);
   return (
     <Wrapper>
       <BlogPostTemplate
+        slug={post.fields.slug}
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
@@ -94,6 +99,9 @@ export const pageQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       html
+      fields {
+        slug
+      }
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
         title
