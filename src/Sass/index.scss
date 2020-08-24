@@ -3,24 +3,24 @@
 
 @import "./Shared.scss";
 
-@import "./components/Header.scss";
-@import "./components/Footer.scss";
-@import "./components/Navigation.scss";
-@import "./components/HomeNav.scss";
-@import "./components/Quote.scss";
-@import "./components/Profile.scss";
-@import "./components/BlogPost.scss";
-@import "./components/FullBlogPost.scss";
-@import "./components/ContactForm.scss";
+@import "./Components/Header";
+@import "./Components/Footer";
+@import "./Components/Navigation";
+@import "./Components/HomeNav";
+@import "./Components/Quote";
+@import "./Components/Profile";
+@import "./Components/BlogPost";
+@import "./Components/FullBlogPost";
+@import "./Components/ContactForm";
 
-@import "./Pages/Home.scss";
-@import "./Pages/News.scss";
-@import "./Pages/Clients.scss";
-@import "./Pages/AboutUs.scss";
-@import "./Pages/Expertise.scss";
-@import "./Pages/Contact.scss";
-@import "./Pages/Complaints.scss";
-@import "./Pages/Donate.scss";
+@import "./Pages/Home";
+@import "./Pages/News";
+@import "./Pages/Clients";
+@import "./Pages/AboutUs";
+@import "./Pages/Expertise";
+@import "./Pages/Contact";
+@import "./Pages/Complaints";
+@import "./Pages/Donate";
 
 html {
   background-color: $wht-color1;
