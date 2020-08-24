@@ -1,10 +1,14 @@
-import React from 'react'
-import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
-import { Helmet } from 'react-helmet'
-import { graphql, Link } from 'gatsby'
-import Layout from '../components/Layout'
-import Content, { HTMLContent } from '../components/Content'
+import React from "react";
+import PropTypes from "prop-types";
+import { kebabCase } from "lodash";
+import { Helmet } from "react-helmet";
+import { graphql, Link } from "gatsby";
+import Wrapper from "../components/AppWrapper";
+import Content, { HTMLContent } from "../components/Content";
+
+import fb from "../img/SocialMediaIcons/facebook2.svg";
+import twitter from "../img/SocialMediaIcons/twitter.svg";
+import linkedIn from "../img/SocialMediaIcons/linkedin.svg";
 
 export const BlogPostTemplate = ({
   content,
@@ -14,51 +18,55 @@ export const BlogPostTemplate = ({
   title,
   helmet,
 }) => {
-  const PostContent = contentComponent || Content
+  const PostContent = contentComponent || Content;
 
   return (
-    <section className="section">
-      {helmet || ''}
-      <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <p>{description}</p>
-            <PostContent content={content} />
-            {tags && tags.length ? (
-              <div style={{ marginTop: `4rem` }}>
-                <h4>Tags</h4>
-                <ul className="taglist">
-                  {tags.map((tag) => (
-                    <li key={tag + `tag`}>
-                      <Link to={`/tags/${kebabCase(tag)}/`}>{tag}</Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ) : null}
-          </div>
-        </div>
-      </div>
-    </section>
-  )
-}
+    <div className="full-blog-post">
+      <h3 className="full-blog-post__heading">{title}</h3>
+      <div
+        className="full-blog-post__content"
+        dangerouslySetInnerHTML={{ __html: content }}
+      />
+      <p className="full-blog-post__disclaimer">
+        We are grateful to everyone who contributes to the Advocates for Animals
+        blog. Blogs should not be taken as legal advice nor do they necessarily
+        reflect the views of the firm
+      </p>
 
-BlogPostTemplate.propTypes = {
-  content: PropTypes.node.isRequired,
-  contentComponent: PropTypes.func,
-  description: PropTypes.string,
-  title: PropTypes.string,
-  helmet: PropTypes.object,
-}
+      <div className="full-blog-post__share">
+        <h3>Share this post</h3>
+        <a
+          target="_blank"
+          href={`https://www.facebook.com/sharer/sharer.php?u=${window.location.href}`}
+        >
+          <img src={fb} alt="facebook" />
+        </a>
+        <a
+          target="_blank"
+          href={`https://twitter.com/home?status=${window.location.href}`}
+        >
+          <img src={twitter} alt="twitter" />
+        </a>
+        <a
+          target="_blank"
+          href={`https://www.linkedin.com/shareArticle?mini=true&url=${window.location.href}`}
+        >
+          <img src={linkedIn} alt="twitter" />
+        </a>
+      </div>
+
+      <Link className="full-blog-post__go-back" to={"/blog"}>
+        Go Back
+      </Link>
+    </div>
+  );
+};
 
 const BlogPost = ({ data }) => {
-  const { markdownRemark: post } = data
+  const { markdownRemark: post } = data;
 
   return (
-    <Layout>
+    <Wrapper>
       <BlogPostTemplate
         content={post.html}
         contentComponent={HTMLContent}
@@ -75,17 +83,11 @@ const BlogPost = ({ data }) => {
         tags={post.frontmatter.tags}
         title={post.frontmatter.title}
       />
-    </Layout>
-  )
-}
+    </Wrapper>
+  );
+};
 
-BlogPost.propTypes = {
-  data: PropTypes.shape({
-    markdownRemark: PropTypes.object,
-  }),
-}
-
-export default BlogPost
+export default BlogPost;
 
 export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
@@ -100,4 +102,4 @@ export const pageQuery = graphql`
       }
     }
   }
-`
+`;

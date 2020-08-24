@@ -1,38 +1,73 @@
-import React from 'react'
+import React from "react";
+import { StaticQuery } from "gatsby";
+import { Scrollbars } from "react-custom-scrollbars";
 
-import Layout from '../../components/Layout'
-import BlogRoll from '../../components/BlogRoll'
+import BlogPost from "../../Components/BlogPost";
+import Wrapper from "../../components/AppWrapper";
 
-export default class BlogIndexPage extends React.Component {
-  render() {
-    return (
-      <Layout>
-        <div
-          className="full-width-image-container margin-top-0"
-          style={{
-            backgroundImage: `url('/img/blog-index.jpg')`,
-          }}
-        >
-          <h1
-            className="has-text-weight-bold is-size-1"
-            style={{
-              boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
-              backgroundColor: '#f40',
-              color: 'white',
-              padding: '1rem',
-            }}
+const News = ({ posts = [] }) => {
+  return (
+    <Wrapper>
+      <div>
+        <h2 className="sub-heading">Blog</h2>
+        <p className="news-blog-text">
+          Thank you everyone who has contributed to our blog! Please note these
+          articles represent the views of the author and not necessarily those
+          of Advocates for Animals. They are not intended as advice for
+          particular situations. We would be happy to advise if you think we may
+          be able to help. If you are interested in writing a blog please email{" "}
+          <a
+            className="news-blog-link"
+            href="mailto:info@advocates-for-animals.com"
           >
-            Latest Stories
-          </h1>
+            info@advocates-for-animals.com
+          </a>
+        </p>
+        <div className="news-blog-container">
+          <StaticQuery
+            query={graphql`
+              query BlogPlQuery {
+                allMarkdownRemark(
+                  sort: { order: DESC, fields: [frontmatter___date] }
+                  filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+                ) {
+                  edges {
+                    node {
+                      excerpt(pruneLength: 400)
+                      id
+                      fields {
+                        slug
+                      }
+                      frontmatter {
+                        title
+                        templateKey
+                        date(formatString: "MMMM DD, YYYY")
+                        featuredpost
+                        featuredimage {
+                          childImageSharp {
+                            fluid(maxWidth: 120, quality: 100) {
+                              ...GatsbyImageSharpFluid
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            `}
+            render={(data, count) => (
+              <Scrollbars style={{ height: 600 }}>
+                {data.allMarkdownRemark.edges.map((post, i) => {
+                  return <BlogPost post={post.node} key={i} />;
+                })}
+              </Scrollbars>
+            )}
+          />
         </div>
-        <section className="section">
-          <div className="container">
-            <div className="content">
-              <BlogRoll />
-            </div>
-          </div>
-        </section>
-      </Layout>
-    )
-  }
-}
+      </div>
+    </Wrapper>
+  );
+};
+
+export default News;
