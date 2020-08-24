@@ -3,7 +3,7 @@ import Profile from "../components/Profile";
 import Wrapper from "../components/AppWrapper";
 
 import davidthomas from "../img/AboutUs/David_Thomas.jpg";
-import ediebowles from "../img/AboutUs/Edie_Bowles.jpg";
+import ediebowles from "../img/AboutUs/EdieBowles.jpg";
 import vanessa from "../img/AboutUs/Vanessa_Johansson.jpeg";
 import alice from "../img/AboutUs/Alice_Collinson.jpg";
 import aboutusimg from "../img/Animals/animal1.jpg";
