@@ -2,21 +2,20 @@ import React from "react";
 import donate from "../img/Donate/donate.png";
 import Wrapper from "../components/AppWrapper";
 
-const Donate = () => {
+import { graphql } from "gatsby";
+
+const Donate = ({ data = {} }) => {
   return (
     <Wrapper>
       <div className="donate">
         <h2 className="sub-heading">Donate</h2>
-        <p className="donate__content">
-          The practice of law can be expensive, if you would like to ensure that
-          Advocates for Animals can help out as many groups as possible at an
-          affordable rate we would appreciate your support. In addition to
-          helping animal protection organisations through use of the law,
-          Advocates for Animals would like the freedom to bring cases on behalf
-          of itself that we feel are essential to help animals. If you would
-          like to ensure that we can bring these cases, please donate. Thank
-          you.
-        </p>
+        <div
+          className="donate__content"
+          dangerouslySetInnerHTML={{
+            __html: data?.donate?.edges[0].node.html,
+          }}
+        />
+
         <form
           action="https://www.paypal.com/cgi-bin/webscr"
           method="post"
@@ -45,5 +44,19 @@ const Donate = () => {
     </Wrapper>
   );
 };
+
+export const pageQuery = graphql`
+  query Donate {
+    donate: allMarkdownRemark(
+      filter: { fileAbsolutePath: { regex: "/donate/" } }
+    ) {
+      edges {
+        node {
+          html
+        }
+      }
+    }
+  }
+`;
 
 export default Donate;

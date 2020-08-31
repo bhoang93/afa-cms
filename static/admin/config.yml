@@ -132,6 +132,17 @@ collections:
             }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
+          - {
+              label: Member,
+              name: member,
+              widget: list,
+              fields:
+                [
+                  { label: Image, name: image, widget: image },
+                  { label: Name, name: name, widget: text },
+                  { label: Body, name: body, widget: markdown },
+                ],
+            }
       - file: "src/pages/clients/index.md"
         label: "Clients"
         name: "clients"
@@ -142,5 +153,24 @@ collections:
               widget: "hidden",
               default: "clients-page",
             }
-          - { label: "Client", name: "Client", widget: "string" }
-          - { label: "Quote", name: "Quote", widget: "text" }
+          - {
+              label: Quotes,
+              name: quotes,
+              widget: list,
+              fields:
+                [
+                  { label: Quote, name: quote, widget: text },
+                  { label: Author, name: author, widget: text },
+                ],
+            }
+      - file: "src/pages/donate/index.md"
+        label: "Donate"
+        name: "donate"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "donate-page",
+            }
+          - { label: Text, name: text, widget: text }

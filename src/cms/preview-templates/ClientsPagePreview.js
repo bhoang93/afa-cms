@@ -3,10 +3,12 @@ import PropTypes from "prop-types";
 import ClientsPage from "../../templates/clients-page";
 
 const ClientsPagePreview = ({ entry, getAsset }) => {
+  console.log(entry);
   const data = entry.getIn(["data"]).toJS() || {};
   if (data) {
     return (
       <ClientsPage
+        entry={entry}
         data={data}
         image={getAsset(data.image)}
         title={data.title}

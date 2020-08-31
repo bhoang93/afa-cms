@@ -21,16 +21,19 @@
     padding: 2rem 5rem;
   }
 
-  &__heading {
+  &__heading,
+  h1 {
     font-size: $fnt_big;
     color: $main-color3;
     border-radius: 3px;
     margin-bottom: 0.5rem;
   }
 
-  &__text {
+  &__text,
+  p {
     color: $wht-color1;
     font-size: $fnt-reg;
+    margin-bottom: 2rem;
 
     &--block {
       display: inline-block;
