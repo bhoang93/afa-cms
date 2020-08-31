@@ -1,3 +1,48 @@
+.about-us-inner {
+  width: 70%;
+  text-align: left;
+
+  strong {
+    color: $main-color3;
+  }
+
+  img {
+    height: 30rem;
+    float: left;
+    margin-right: 2rem;
+    margin-bottom: 2rem;
+    outline: 0.75rem solid $main-color5;
+
+    @media only screen and (max-width: $bp-small) {
+      height: 25rem;
+      float: none;
+    }
+  }
+
+  h3 {
+    font-size: 1.8rem;
+    margin-bottom: 0.5rem;
+    color: $main-color4;
+  }
+
+  p {
+    font-size: 1.6rem;
+    margin-bottom: 1.5rem;
+  }
+
+  ul {
+    margin-left: 1.6rem;
+    margin-bottom: 2rem;
+
+    & li {
+      font-size: 1.6rem;
+      & span {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
 .aboutus {
   display: flex;
   flex-direction: column;
