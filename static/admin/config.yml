@@ -174,3 +174,15 @@ collections:
               default: "donate-page",
             }
           - { label: Text, name: text, widget: text }
+      - file: "src/pages/contact/index.md"
+        label: "Contact"
+        name: "contact"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "contact-page",
+            }
+          - { label: Phone, name: phone, widget: text }
+          - { label: Email, name: email, widget: text }
