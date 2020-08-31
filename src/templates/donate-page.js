@@ -9,12 +9,9 @@ const Donate = ({ data = {} }) => {
     <Wrapper>
       <div className="donate">
         <h2 className="sub-heading">Donate</h2>
-        <div
-          className="donate__content"
-          dangerouslySetInnerHTML={{
-            __html: data?.donate?.edges[0].node.html,
-          }}
-        />
+        <p className="donate__content">
+          {data.donate.edges[0].node.frontmatter.text}
+        </p>
 
         <form
           action="https://www.paypal.com/cgi-bin/webscr"
@@ -52,7 +49,12 @@ export const pageQuery = graphql`
     ) {
       edges {
         node {
-          html
+          fields {
+            slug
+          }
+          frontmatter {
+            text
+          }
         }
       }
     }
