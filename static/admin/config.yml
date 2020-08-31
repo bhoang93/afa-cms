@@ -163,3 +163,14 @@ collections:
                   { label: Author, name: author, widget: text },
                 ],
             }
+      - file: "src/pages/donate/index.md"
+        label: "Donate"
+        name: "donate"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "donate-page",
+            }
+          - { label: Text, name: text, widget: text }
