@@ -15,7 +15,7 @@ const News = ({ data }) => {
         <div
           className="news-blog-text"
           dangerouslySetInnerHTML={{
-            __html: data?.blogPage?.edges[0].node.html,
+            __html: data?.blogPage?.edges[0]?.node.html,
           }}
         />
         <BlogContainer />
