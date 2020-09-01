@@ -226,6 +226,6 @@ collections:
               fields:
                 [
                   { label: Name, name: name, widget: text },
-                  { label: Body, name: body, widget: body },
+                  { label: Body, name: body, widget: markdown },
                 ],
             }
