@@ -1,11 +1,11 @@
 import React from "react";
-
+import { StaticQuery } from "gatsby";
 import { Scrollbars } from "react-custom-scrollbars";
 
 import BlogPost from "../components/BlogPost";
 import Wrapper from "../components/AppWrapper";
 
-const News = ({ posts }) => {
+const News = ({ posts = [] }) => {
   return (
     <Wrapper>
       <div>
@@ -24,11 +24,46 @@ const News = ({ posts }) => {
           </a>
         </p>
         <div className="news-blog-container">
-          <Scrollbars style={{ height: 600 }}>
-            {posts.map((post, index) => {
-              return <BlogPost key={index} post={post} />;
-            })}
-          </Scrollbars>
+          <StaticQuery
+            query={graphql`
+              query BlogPlQuery {
+                allMarkdownRemark(
+                  sort: { order: DESC, fields: [frontmatter___date] }
+                  filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
+                ) {
+                  edges {
+                    node {
+                      excerpt(pruneLength: 400)
+                      id
+                      fields {
+                        slug
+                      }
+                      frontmatter {
+                        title
+                        templateKey
+                        date(formatString: "MMMM DD, YYYY")
+                        featuredpost
+                        featuredimage {
+                          childImageSharp {
+                            fluid(maxWidth: 120, quality: 100) {
+                              ...GatsbyImageSharpFluid
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            `}
+            render={(data, count) => (
+              <Scrollbars style={{ height: 600 }}>
+                {data.allMarkdownRemark.edges.map((post, i) => {
+                  return <BlogPost post={post.node} key={i} />;
+                })}
+              </Scrollbars>
+            )}
+          />
         </div>
       </div>
     </Wrapper>

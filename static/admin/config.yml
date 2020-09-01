@@ -198,3 +198,14 @@ collections:
             }
           - { label: Body, name: body, widget: markdown }
           - { label: Image, name: image, widget: image }
+      - file: "src/pages/blog/index.md"
+        label: "Blog Page"
+        name: "blogpage"
+        fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "blog-page",
+            }
+          - { label: Body, name: body, widget: markdown }

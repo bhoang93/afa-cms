@@ -8,19 +8,27 @@ import phone from "../img/Contact/phone.svg";
 import mail from "../img/Contact/mail4.svg";
 
 const Clients = ({ data }) => {
+  console.log(data);
   return (
     <Wrapper>
       <div className="complaints">
         <div className="complaints__1st">
-          <img src={""} alt="Cows" className="complaints__image" />
+          <img
+            src={
+              "/img/" +
+              data?.complaints?.edges[0].node.frontmatter.image.relativePath
+            }
+            alt="Cows"
+            className="complaints__image"
+          />
         </div>
 
         <div className="complaints__2nd">
           <h2 className="sub-heading">Complaints Procedure</h2>
           <div
-            className="about-us-inner"
+            className="complaints__2nd"
             dangerouslySetInnerHTML={{
-              __html: "",
+              __html: data?.complaints?.edges[0].node.html,
             }}
           />
           <div className="complaints__contact">
@@ -65,18 +73,17 @@ export default Clients;
 export const pageQuery = graphql`
   query Complaints {
     complaints: allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/clients/" } }
+      filter: { fileAbsolutePath: { regex: "/complaints/" } }
     ) {
       edges {
         node {
           fields {
             slug
           }
-          rawMarkdownBody
+          html
           frontmatter {
-            quotes {
-              author
-              quote
+            image {
+              relativePath
             }
           }
         }
