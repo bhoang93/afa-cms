@@ -104,9 +104,6 @@ areas:
     name: Undercover investigations
   - name: Animal Protection Law
     body: >-
-      <!--StartFragment-->
-
-
       ## Animal Protection Law
 
 
@@ -129,11 +126,11 @@ areas:
 
 
       Enforcement is a massive issue, too. All too often, public bodies fail to enforce properly even the inadequate protection given by legislation. There are various ways of ensuring that they do. Or you may need advice about what the law is in a particular area, here or abroad.
-
-
-      <!--EndFragment-->
   - name: Private Prosecutions
     body: >-
+      ## Private Prosecutions
+
+
       ![Koala](https://advocates-for-animals.com/static/media/private.cddd43ff.jpg)
 
 
