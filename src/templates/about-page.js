@@ -26,10 +26,6 @@ class AboutUs extends React.Component {
     this.setState({ currentProfile: null });
   };
 
-  componentDidMount() {
-    console.log(this?.props?.data.aboutUs.edges[0].node.frontmatter.member);
-  }
-
   render() {
     const aboutUsProfile = this?.props?.data.aboutUs.edges[0].node.frontmatter
       .member;
