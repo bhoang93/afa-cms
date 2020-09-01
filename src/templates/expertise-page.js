@@ -1,46 +1,47 @@
 import React, { useState } from "react";
 import Wrapper from "../components/AppWrapper";
+import { Remarkable } from "remarkable";
 
-const areas = [
-  { link: "/expertise/freedom-of-information", text: "Freedom of Information" },
-  { link: "/expertise/judicial-review", text: "Judicial Review" },
-  {
-    link: "/expertise/achieving-a-level-playing-field",
-    text: "Achieving A Level Playing Field",
-  },
-  {
-    link: "/expertise/undercover-investigations",
-    text: "Undercover investigations",
-  },
-  { link: "/expertise/animal-protection-law", text: "Animal Protection Law" },
-  { link: "/expertise/private-prosecutions", text: "Private Prosecutions" },
-];
-
-const Expertise = () => {
+const Expertise = ({ data }) => {
   const [selectedArea, setArea] = useState(null);
+  const areas = data.expertise.edges[0].node.frontmatter.areas;
+  const md = new Remarkable();
+
   return (
     <Wrapper>
       <div className="expertise">
-        <h2 className="sub-heading">Areas of Expertise</h2>
         {selectedArea ? (
-          <div></div>
-        ) : (
-          <div className="expertise__wrapper">
-            {areas.map((area, index) => {
-              return (
-                <a
-                  key={index}
-                  className={`expertise__link`}
-                  exact
-                  to={area.link}
-                >
-                  <div className="expertise__redirect">
-                    <span>{area.text}</span>
-                  </div>
-                </a>
-              );
-            })}
+          <div className="expertise expertise--sub">
+            <div
+              dangerouslySetInnerHTML={{
+                __html: md.render(selectedArea),
+              }}
+            />
+            <a className="expertise__back" onClick={() => setArea(null)}>
+              ◀Go Back
+            </a>
           </div>
+        ) : (
+          <>
+            <h2 className="sub-heading">Areas of Expertise</h2>
+            <div className="expertise__wrapper">
+              {areas.map((area, index) => {
+                return (
+                  <a
+                    key={index}
+                    className={`expertise__link`}
+                    onClick={() => {
+                      setArea(area.body);
+                    }}
+                  >
+                    <div className="expertise__redirect">
+                      <span>{area.name}</span>
+                    </div>
+                  </a>
+                );
+              })}
+            </div>
+          </>
         )}
       </div>
     </Wrapper>
@@ -48,3 +49,26 @@ const Expertise = () => {
 };
 
 export default Expertise;
+
+export const pageQuery = graphql`
+  query Expertise {
+    expertise: allMarkdownRemark(
+      filter: { fileAbsolutePath: { regex: "/expertise/" } }
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          html
+          frontmatter {
+            areas {
+              body
+              name
+            }
+          }
+        }
+      }
+    }
+  }
+`;
