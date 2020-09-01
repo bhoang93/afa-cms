@@ -1,5 +1,5 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
+import { Link } from "gatsby";
 
 import SocialMediaIcon from "../components/SocialMediaIcon";
 
@@ -20,9 +20,9 @@ const Footer = () => {
           style={{ height: "100%", width: "100%" }}
         />
       </div>
-      <a className="footer__complaints" exact to="/complaints">
+      <Link className="footer__complaints" exact to="/complaints">
         Complaints Procedure
-      </a>
+      </Link>
 
       <div className="footer__social">
         <SocialMediaIcon
