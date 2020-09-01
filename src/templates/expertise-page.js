@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import Wrapper from "../components/AppWrapper";
 
 const areas = [
@@ -17,21 +17,31 @@ const areas = [
 ];
 
 const Expertise = () => {
+  const [selectedArea, setArea] = useState(null);
   return (
     <Wrapper>
       <div className="expertise">
         <h2 className="sub-heading">Areas of Expertise</h2>
-        <div className="expertise__wrapper">
-          {areas.map((area, index) => {
-            return (
-              <a key={index} className={`expertise__link`} exact to={area.link}>
-                <div className="expertise__redirect">
-                  <span>{area.text}</span>
-                </div>
-              </a>
-            );
-          })}
-        </div>
+        {selectedArea ? (
+          <div></div>
+        ) : (
+          <div className="expertise__wrapper">
+            {areas.map((area, index) => {
+              return (
+                <a
+                  key={index}
+                  className={`expertise__link`}
+                  exact
+                  to={area.link}
+                >
+                  <div className="expertise__redirect">
+                    <span>{area.text}</span>
+                  </div>
+                </a>
+              );
+            })}
+          </div>
+        )}
       </div>
     </Wrapper>
   );

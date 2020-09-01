@@ -26,7 +26,8 @@
   font-size: 1.6rem;
 }
 
-.news-blog-link {
+.news-blog-link,
+a {
   color: $snd-color3;
   transition: all 0.2s ease;
 
