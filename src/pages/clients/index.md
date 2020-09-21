@@ -133,5 +133,5 @@ quotes:
       animal welfare and rights takes them that extra mile. Without Advocates
       for Animals acting for me there would be no tears of happiness, there
       would be no peace in the hearts of this lady and her dog.
-    author: Mrs Lane
+    author: "- Mrs Lane"
 ---
