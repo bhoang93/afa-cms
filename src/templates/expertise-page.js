@@ -1,11 +1,15 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import Wrapper from "../components/AppWrapper";
 import { Remarkable } from "remarkable";
 
-const Expertise = ({ data }) => {
+const Expertise = ({ data, location }) => {
   const [selectedArea, setArea] = useState(null);
   const areas = data.expertise.edges[0].node.frontmatter.areas;
   const md = new Remarkable();
+
+  useEffect(() => {
+    setArea(null);
+  }, [location]);
 
   return (
     <Wrapper>

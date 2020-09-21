@@ -68,7 +68,6 @@ export const BlogPostTemplate = ({
 
 const BlogPost = ({ data }) => {
   const { markdownRemark: post } = data;
-  console.log(post);
   return (
     <Wrapper>
       <BlogPostTemplate

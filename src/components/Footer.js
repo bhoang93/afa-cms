@@ -20,9 +20,18 @@ const Footer = () => {
           style={{ height: "100%", width: "100%" }}
         />
       </div>
-      <Link className="footer__complaints" exact to="/complaints">
-        Complaints Procedure
-      </Link>
+      <div className="footer__complaints_container">
+        <Link className="footer__complaints" exact to="/complaints">
+          Complaints Procedure
+        </Link>
+        <a
+          className="footer__complaints"
+          href="/privacy-policy.docx"
+          target="_blank"
+        >
+          Privacy Policy
+        </a>
+      </div>
 
       <div className="footer__social">
         <SocialMediaIcon

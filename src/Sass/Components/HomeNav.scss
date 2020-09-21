@@ -9,6 +9,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: 400;
 
     border: 0.3rem solid $snd-color6;
     margin-bottom: 5px;
@@ -17,7 +18,7 @@
     text-decoration: none;
     color: $wht-color1;
     font-size: 2.25rem;
-    font-weight: 700;
+    font-weight: 500;
     text-shadow: 0 5px 3px rgba($blk-color2, 0.8);
 
     background-color: $snd-color1;

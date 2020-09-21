@@ -37,14 +37,23 @@
     }
   }
 
+  &__complaints_container {
+    display: flex;
+    flex-direction: column;
+  }
+
   &__complaints {
     text-decoration: none;
     color: $wht-color1;
     background-color: $snd-color3;
-    font-size: 2rem;
+    font-size: 1.2rem;
     padding: 1rem 2rem;
     margin: 0 3rem;
     transition: all 0.2s ease;
+
+    &:first-of-type {
+      margin-bottom: 10px;
+    }
 
     &:hover {
       background-color: $wht-color1;

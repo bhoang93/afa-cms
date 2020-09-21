@@ -18,8 +18,8 @@ class FullBlogPost extends React.Component {
     fetch(
       `https://public-api.wordpress.com/rest/v1.1/sites/advocates-for-animals.com/posts/${this.props.match.params.id}`
     )
-      .then(resp => resp.json())
-      .then(data => this.setState({ post: data }));
+      .then((resp) => resp.json())
+      .then((data) => this.setState({ post: data }));
   }
 
   render() {
@@ -66,7 +66,7 @@ class FullBlogPost extends React.Component {
           </a>
         </div>
 
-        <a className="full-blog-post__go-back" to={"/blog"}>
+        <a className="full-blog-post__go-back" to={"/news"}>
           Go Back
         </a>
       </div>

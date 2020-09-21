@@ -27,7 +27,7 @@ const News = ({ data }) => {
 export const pageQuery = graphql`
   query BlogPage {
     blogPage: allMarkdownRemark(
-      filter: { id: { eq: "4aefce28-be92-531e-8ce2-30495255caef" } }
+      filter: { id: { eq: "816b1908-9e19-546a-acf6-914ef235c89a" } }
     ) {
       edges {
         node {
