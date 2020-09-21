@@ -27,9 +27,9 @@ areas:
 
 
       The other main way of getting information is via [undercover investigations](https://advocates-for-animals.com/expertise/undercover-investigations)
-  - name: Judicial review
+  - name: Judicial Review
     body: >-
-      ## Judicial review
+      ## Judicial Review
 
 
       Judicial review is a type of legal action under which decisions of ministers and other public officials can be challenged. It is the means by which the judiciary ensures that public bodies keep within the law. As such, it is a vital tool in a democracy and there have been many famous cases, including recently the successful challenge to the Government’s attempt to circumvent Parliament over the Brexit Article 50 process. ‘Decision’ is interpreted broadly, such that (for example) a failure to make a decision can be challenged, as can secondary legislation falling outside the ambit of an Act of Parliament.
