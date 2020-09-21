@@ -4,14 +4,12 @@ path: /clients
 title: What Clients Say
 Client: Client
 quotes:
-  - quote:
-      An incredibly experienced, enthusiastic and dedicated team with advanced
+  - quote: An incredibly experienced, enthusiastic and dedicated team with advanced
       knowledge of range of animal issues and the relevant law. Able to advise
       on many aspects of animal law and see projects through to successful
       completion.
     author: "- Cruelty Free International"
-  - quote:
-      Edie Bowles and David Thomas have given advice to our charity at short
+  - quote: Edie Bowles and David Thomas have given advice to our charity at short
       notice to a high standard. Their knowledge has helped us campaign
       effectively and ensured that we use the law to help animals in need
       wherever possible. We highly recommend Advocates for Animals.
@@ -23,8 +21,7 @@ quotes:
       work of using the law to make a real and long-lasting difference for
       animals.
     author: "- Animal Free Research"
-  - quote:
-      Thorough, clear, considered and professional in your approach to us as
+  - quote: Thorough, clear, considered and professional in your approach to us as
       your clients, you advised us fully together with counsel, as to the merits
       and non merits of each option available to us on complex areas of law,
       this enabled us to undertake an informed campaign strategy both in the
@@ -38,8 +35,7 @@ quotes:
       our case, the thousands of greyhounds used within the racing industry here
       in the UK.
     author: "- Greyt Exploitations"
-  - quote:
-      The IVRA has recently worked with Edie on a variety of matters and has
+  - quote: The IVRA has recently worked with Edie on a variety of matters and has
       found her work to be extremely useful. The network is very much in need of
       Edie’s dedicated service which is invaluable to support and further the
       aims and objectives of the organisation.
@@ -49,8 +45,7 @@ quotes:
       capable legal professional with a dogged determination to do the very best
       for animals and the people and organisations who advocate for them.
     author: "- Compassion in World Farming"
-  - quote:
-      David has provided excellent quality legal advice to Animal Aid. It is so
+  - quote: David has provided excellent quality legal advice to Animal Aid. It is so
       reassuring to work with someone who has such brilliant legal expertise,
       but also understands the specific issues relating to animal protection,
       and shares our dedication to making the world a better place for animals.
@@ -60,8 +55,7 @@ quotes:
       recommending David to any animal protection organisation who was looking
       for legal advice.
     author: "- Animal Aid"
-  - quote:
-      The services set out by Advocates for Animals are absolutely invaluable
+  - quote: The services set out by Advocates for Animals are absolutely invaluable
       to animal protection NGOs aiming to take the most direct route to creating
       sustained change for animals, to maximise impact, and to minimise risk. At
       Humane Society International I fully anticipate we would instruct the
@@ -85,8 +79,7 @@ quotes:
       charities and activists they represent. I can’t recommend them highly
       enough.
     author: "- Animal Equality"
-  - quote:
-      Alice Collinson brings an in-depth understanding and highly professional
+  - quote: Alice Collinson brings an in-depth understanding and highly professional
       approach to her analyses of wildlife law and international legal process.
       She is also able to fulfil complex requests in a timely, coherent and
       cost-effective manner, and her reporting is outstanding. She is our first
@@ -102,8 +95,7 @@ quotes:
       specialist and timely advice of a high standard on several occasions. We
       are very pleased to be working with them.
     author: "- Save The Asian Elephants"
-  - quote:
-      Edie and the team at Advocates for Animals went above and beyond to help
+  - quote: Edie and the team at Advocates for Animals went above and beyond to help
       us save over 80 pigs from a court destruction order. They overturned this
       order with their legal expertise. They are an amazing team of legal
       experts, professional, supportive and 100% dedicated.
@@ -117,8 +109,7 @@ quotes:
       easy to understand details on any work they need to assess for legal
       issues.
     author: "- The Humane League UK"
-  - quote:
-      The Donkey Sanctuary has drawn on the legal expertise of Advocates for
+  - quote: The Donkey Sanctuary has drawn on the legal expertise of Advocates for
       Animals for over two years now. It would be hard to overstate the amazing
       support they have provided to us in respect of some of our key campaigns –
       from poring over our campaign literature from a legal perspective, to
@@ -134,4 +125,13 @@ quotes:
       animal welfare through legal processes and mechanisms. We can’t recommend
       them highly enough.
     author: "- The Donkey Sanctuary"
+  - quote: >
+      Advocates for Animals with their invaluable knowledge in the fight for all
+      animals are a huge step forward for animals having a voice, a voice that
+      will end cruelty and bring an understanding of what is right and what is
+      wrong. Their passion and indomitable spirit along with their expertise in
+      animal welfare and rights takes them that extra mile. Without Advocates
+      for Animals acting for me there would be no tears of happiness, there
+      would be no peace in the hearts of this lady and her dog.
+    author: Mrs Lane
 ---
