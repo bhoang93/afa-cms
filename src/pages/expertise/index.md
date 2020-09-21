@@ -131,7 +131,7 @@ areas:
       ## Private Prosecutions
 
 
-      ![Koala](https://advocates-for-animals.com/static/media/private.cddd43ff.jpg)
+      ![Koala](/img/pigfarm_italy_jmcarthur_2015-0700.jpg)
 
 
       The main prosecuting authority in England and Wales is the Crown Prosecution Service (CPS). In Scotland, it is the Prosecutor-Fiscal and in Northern Ireland the Public Prosecution Service. Each of these organisations bring prosecutions on behalf of the state. They are independent of the police, who investigate crimes.
