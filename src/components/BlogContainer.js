@@ -32,7 +32,12 @@ const BlogContainer = () => {
           }
         `}
         render={(data, count) => (
-          <Scrollbars style={{ height: 600 }}>
+          <Scrollbars
+            style={{ height: 600 }}
+            renderThumbVertical={(props) => (
+              <div {...props} className="thumb-vertical" />
+            )}
+          >
             {data.allMarkdownRemark.edges.map((post, i) => {
               return <BlogPost post={post.node} key={i} />;
             })}

@@ -8,7 +8,6 @@ import phone from "../img/Contact/phone.svg";
 import mail from "../img/Contact/mail4.svg";
 
 const Clients = ({ data }) => {
-  console.log(data);
   return (
     <Wrapper>
       <div className="complaints">
