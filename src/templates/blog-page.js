@@ -27,7 +27,7 @@ const News = ({ data }) => {
 export const pageQuery = graphql`
   query BlogPage {
     blogPage: allMarkdownRemark(
-      filter: { fileAbsolutePath: { regex: "/news/" } }
+      filter: { fileAbsolutePath: { regex: "/news/index.md/" } }
     ) {
       edges {
         node {
