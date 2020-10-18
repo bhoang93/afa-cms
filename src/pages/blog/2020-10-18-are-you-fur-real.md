@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: Are You Fur Real?
+title: "Blog: Are You Fur Real?"
 date: 2019-02-07T13:12:16.289Z
 ---
-![](/img/blog-post-fur.png "Are You Fur Real?")
+![Racoon in grass](/img/blog-post-fur.png "Blog: Are You Fur Real?")
 
 <!--StartFragment-->
 
