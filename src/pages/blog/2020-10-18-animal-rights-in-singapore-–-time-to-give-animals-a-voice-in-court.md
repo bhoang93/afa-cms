@@ -1,13 +1,11 @@
 ---
 templateKey: blog-post
-title: Animal rights in Singapore – Time to give animals a voice in court
+title: "Blog: Animal Rights in Singapore – Time to Give Animals a Voice in Court"
 date: 2019-05-31T12:32:18.242Z
 ---
-![](/img/give-animal-a-voice-650x371.jpg "Animal rights in Singapore – Time to give animals a voice in court")
+![Gallery of animals](/img/give-animal-a-voice-650x371.jpg "Blog: Animal Rights in Singapore – Time to Give Animals a Voice in Court")
 
 <!--StartFragment-->
-
-
 
 The [culling of 24 free roaming chickens](http://m.todayonline.com/singapore/sin-ming-chicken-culling-ruffles-feathers) in the Sin Ming area hit the headlines this week. The Agri-Food and Veterinary Authority (the “AVA”) stated that it had received over 200 complaints across the island about such chickens last year. The main complaints related to noise nuisance, but the AVA also explained that an unchecked roaming chicken population could increase the risk of avian flu, which is prevalent in the region. The National Parks Board agreeing with the culling argued about the [risk to endangered native junglefowl](http://www.straitstimes.com/singapore/environment/free-ranging-chickens-may-be-culled).
 
@@ -36,8 +34,6 @@ With so many netizens increasingly taking to social media to report and discuss 
 A free event entitled “[Sentient Beings? Time to Give a Voice to Animals in Court](https://www.facebook.com/events/637864986338200/)” is being held on Sunday 5th of March 2017 to address the issues raised in this article and also to hear views from animal rescuers and animal lovers. The event hopes to generate dialogue on this topic to give members of the public an opportunity to share views.
 
 The event is organised by We Exist Consult and more information is available through [this link](https://www.eventbrite.co.uk/e/sentient-beings-time-to-give-a-voice-to-animals-in-court-tickets-32100998952).
-
-
 
 M. Ravi\
 International human rights lawyer
