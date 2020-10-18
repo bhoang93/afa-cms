@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: Squirrel-eater convictions no victory for animals
+title: "Case Update: Squirrel-eater Convictions no Victory for Animals"
 date: 2019-07-26T12:42:30.814Z
 ---
-![](/img/img_5827.png "Squirrel-eater convictions no victory for animals")
+![Silhouette of people protesting](/img/img_5827.png "Case Update: Squirrel-eater Convictions no Victory for Animals")
 
 <!--StartFragment-->
 
