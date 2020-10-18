@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: "Blog: The Cats Bill – More Legal Protection For Animals On The Roads?"
+title: "Blog: The Cats Bill – More Legal Protection For Animals on The Roads?"
 date: 2019-06-28T12:37:31.150Z
 ---
-![Cat in front of stairs](/img/unnamed.jpg "Blog: The Cats Bill – More Legal Protection For Animals On The Roads?")
+![Cat in front of stairs](/img/unnamed.jpg "Blog: The Cats Bill – More Legal Protection For Animals on The Roads?")
 
 <!--StartFragment-->
 
