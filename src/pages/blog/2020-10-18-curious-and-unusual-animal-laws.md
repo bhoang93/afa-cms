@@ -1,11 +1,9 @@
 ---
 templateKey: blog-post
-title: Curious and Unusual Animal Laws
+title: "Blog: Curious and Unusual Animal Laws"
 date: 2019-07-19T12:41:20.283Z
 ---
-
-
-![](/img/jul-19-blog-copy-1.jpg "Curious and Unusual Animal Laws")
+![Goldfish](/img/jul-19-blog-copy-1.jpg "Blog: Curious and Unusual Animal Laws")
 
 <!--StartFragment-->
 
@@ -35,7 +33,5 @@ AN@authorupdates
 6. <http://www.napoleon-series.org/research/government/c_code.html>
 7. <http://mentalfloss.com/article/70337/25-wild-facts-about-alaska>
 8. <http://www.akleg.gov/basis/aac.asp#5.92.072>
-
-
 
 <!--EndFragment-->
