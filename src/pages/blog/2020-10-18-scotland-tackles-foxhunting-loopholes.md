@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Blog: Scotland Tackles Foxhunting Loopholes"
-date: 2020-02-26T13:19:30.526Z
+date: 2019-02-26T13:19:30.526Z
 ---
 ![Fox sleeping](/img/canva-wildlife-photography-of-resting-fox.jpg "Blog: Scotland Tackles Foxhunting Loopholes")
 
