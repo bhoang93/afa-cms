@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: I predict a riot! Or is it a violent disorder?
+title: "Blog: I predict a Riot! Or Is It a Violent Disorder?"
 date: 2019-08-05T12:44:02.384Z
 ---
-![](/img/a9068502-edf2-4bba-9b8e-bbfea7e038fb.png "I predict a riot! Or is it a violent disorder?")
+![Child on man's shoulders screaming in microphone](/img/a9068502-edf2-4bba-9b8e-bbfea7e038fb.png "Blog: I predict a Riot! Or Is It a Violent Disorder?")
 
 <!--StartFragment-->
 
@@ -103,7 +103,5 @@ So, there we have it. Whilst anyone considering a protest; and especially people
 
 Alan Robertshaw\
 Barrister, practicing from chambers in the south west and London
-
-
 
 <!--EndFragment-->
