@@ -9,7 +9,7 @@ date: 2020-10-16T17:06:05.650Z
 
 *16 October 2020 by Samuel March*
 
-Judgment: [R (on the application of Highbury Poultry Farm Produce Ltd) (Appellant) v Crown Prosecution Service (Respondent) \[2020] UKSC 39](https://www.supremecourt.uk/cases/docs/uksc-2018-0231-judgment.pdf)
+Judgment: \[R (on the application of Highbury Poultry Farm Produce Ltd) (Appellant) v Crown Prosecution Service (Respondent) [2020] UKSC 39](https://www.supremecourt.uk/cases/docs/uksc-2018-0231-judgment.pdf)
 
 On 16 October 2020 the UK Supreme Court unanimously ruled against Highbury Poultry Farm Produce Ltd (“the Appellants”) in an appeal concerning the scope of the legal duties on business operators under [Regulation 30(1)(g) the Welfare of Animals at the Time of Killing (England) Regulations 2015](https://www.legislation.gov.uk/uksi/2015/1782/regulation/30/made) (“the UK Regulation”). The effect of this may be to leave the Appellants with no defence to criminal charges.
 
@@ -23,6 +23,8 @@ The Appellants were charged with two offences in respect of each incident, contr
 
 1. *Article 3 of the EU Regulation*, which requires that animals “shall be spared avoidable pain, distress or suffering” during their killing; and
 2. *Article 15(1) of the EU Regulation*, which sets out requirements for the bleeding of animals (including that “in case of simple stunning\[…] the two carotid \[neck] arteries or the vessels from which they arise shall be systematically severed\[…] Further dressing or scalding shall only be performed once the absence of signs of life of the animal has been verified”).
+
+
 
 **ISSUE**
 
@@ -66,8 +68,6 @@ These issues were raised as preliminary matters, but they are of critical import
 The Crown Prosecution Service, who were the respondents in this matter, will now be able to proceed with the prosecution. It may well be that the Appellants now have no defence to the charges, and will be convicted of criminal offences.
 
 <!-- wp:paragraph -->
-
-
 
 <!-- /wp:paragraph -->
 
