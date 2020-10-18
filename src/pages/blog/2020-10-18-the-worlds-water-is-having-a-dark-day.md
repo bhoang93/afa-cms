@@ -1,13 +1,11 @@
 ---
 templateKey: blog-post
-title: The world's water is having a dark day
+title: "Blog: The World's Water is Having a Dark Day"
 date: 2020-03-22T13:21:20.746Z
 ---
-![](/img/adobe-spark-post-2-1.png "The world's water is having a dark day")
+![Turtle in water](/img/adobe-spark-post-2-1.png "Blog: The World's Water is Having a Dark Day")
 
 <!--StartFragment-->
-
-
 
 As World Water Day approaches, the earth is showing increasingly frequent signs of degradation. Even as recently as March 19, a whale that starved to death in the Philippines was found to have 40 kg of plastic in its stomach. It has never been more important to highlight the problems surrounding marine life and climate change, as well as other environmental problems like plastic contaminating the oceans.
 
