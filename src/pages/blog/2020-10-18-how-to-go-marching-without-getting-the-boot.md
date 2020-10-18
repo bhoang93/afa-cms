@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: "Case Update: How to go Marching Without Getting the Boot"
+title: "Blog: How to go Marching Without Getting the Boot"
 date: 2019-09-20T12:49:40.864Z
 ---
-![People marching in the street](/img/unnamed-1.jpg "Case Update: How to go Marching Without Getting the Boot")
+![People marching in the street](/img/unnamed-1.jpg "Blog: How to go Marching Without Getting the Boot")
 
 <!--StartFragment-->
 
