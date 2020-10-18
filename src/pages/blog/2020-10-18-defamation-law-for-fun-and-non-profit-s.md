@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: "Defamation Law: for fun and (Non) Profit(s)!"
+title: "Blog: Defamation Law: For Fun and (Non) Profit(s)!"
 date: 2019-06-24T12:36:14.181Z
 ---
-![](/img/unnamed.png "Defamation Law: for fun and (Non) Profit(s)!")
+![People marching](/img/unnamed.png "Blog: Defamation Law: For Fun and (Non) Profit(s)!")
 
 <!--StartFragment-->
 
@@ -62,8 +62,6 @@ If someone is already held in low regard, they might not be able to bring a clai
 
 The audience also matters. If the only people who became aware of the statement wouldn’t believe it anyway, then it’s probably not defamatory.
 
-
-
 **Categories of Defamation**
 
 Defamation was traditionally separated into *libel*, *slander*, and *malicious falsehood*.
@@ -118,8 +116,6 @@ As one judge put it: “*In the old days we provided the pitch and the referee a
 
 So, the mere fact someone has a good defamation case doesn’t mean the court will allow it to proceed if at the end of the day no one really cares.
 
-
-
 **Time limits for defamation actions**
 
 If someone wants to sue for defamation they must bring the claim within twelve months of the statement being made; and time starts running from the first time it was made; the clock doesn’t restart just because the statement is repeated.
@@ -133,8 +129,6 @@ If you’re unsure how to respond to a groundless threat of defamation proceedin
 That was a case in which someone threatened defamation proceedings against a magazine, and said the amount of damages sought would depend on the magazine’s response.
 
 The magazine’s response was “*Fuck off*”.
-
-
 
 Alan Robertshaw\
 Barrister, practicing from chambers in the south west and London
