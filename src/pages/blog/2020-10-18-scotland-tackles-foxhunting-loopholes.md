@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: Scotland Tackles Foxhunting Loopholes
+title: "Blog: Scotland Tackles Foxhunting Loopholes"
 date: 2020-02-26T13:19:30.526Z
 ---
-![](/img/canva-wildlife-photography-of-resting-fox.jpg "Scotland Tackles Foxhunting Loopholes")
+![Fox sleeping](/img/canva-wildlife-photography-of-resting-fox.jpg "Blog: Scotland Tackles Foxhunting Loopholes")
 
 <!--StartFragment-->
 
@@ -24,7 +24,5 @@ In March 2018 The League Against Cruel Sports Scotland, OneKind and the Internat
 Arabella Atkinson\
 Data Analyst\
 LLM King's College London
-
-
 
 <!--EndFragment-->
