@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: "Case Update: Changing the Law for Lucy and Her Fellow Breeding Sisters"
+title: "Blog: Changing the Law for Lucy and Her Fellow Breeding Sisters"
 date: 2019-09-13T12:48:33.671Z
 ---
-![Puppy looking up](/img/unnamed-2-.jpg "Case Update: Changing the Law for Lucy and Her Fellow Breeding Sisters")
+![Puppy looking up](/img/unnamed-2-.jpg "Blog: Changing the Law for Lucy and Her Fellow Breeding Sisters")
 
 <!--StartFragment-->
 
