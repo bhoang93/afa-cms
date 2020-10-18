@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: The International Wildlife Trade Conference Geneva 2019
+title: "Blog: The International Wildlife Trade Conference Geneva 2019"
 date: 2019-10-10T12:51:03.038Z
 ---
-![](/img/unnamed-3-.jpg "The International Wildlife Trade Conference Geneva 2019")
+![Colourful lizzard](/img/unnamed-3-.jpg "Blog: The International Wildlife Trade Conference Geneva 2019")
 
 <!--StartFragment-->
 
@@ -38,7 +38,5 @@ Overall, this conference resulted in some definite progress for some of the worl
 Samera Hussain\
 LLM Graduate\
 Independent Contributor
-
-
 
 <!--EndFragment-->
