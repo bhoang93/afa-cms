@@ -1,17 +1,17 @@
 ---
 templateKey: blog-post
-title: A Promulgation of Social Rights for Animals
+title: "Blog: A Promulgation of Social Rights for Animals"
 date: 2019-11-07T16:10:46.289Z
 ---
-![](/img/unnamed-4-.jpg "A Promulgation of Social Rights for Animals")
+![Two rats](/img/unnamed-4-.jpg "Blog: A Promulgation of Social Rights for Animals")
 
 <!--StartFragment-->
 
-In Switzerland, it is illegal to keep certain social animals, such as guinea-pigs, rats, gerbils and mice, on their own (without legal justification)[\[1]](#_ftn1). Many might find this surprising, (eccentric even!) but despite this law being passed in Switzerland over a decade ago (2008), the discussion over affording social rights to animals in law has thus far seemingly failed to pervade modern discourse. So, is it time, or even long overdue, that the social rights of animals are enshrined in law?
+In Switzerland, it is illegal to keep certain social animals, such as guinea-pigs, rats, gerbils and mice, on their own (without legal justification)\[[1]](#_ftn1). Many might find this surprising, (eccentric even!) but despite this law being passed in Switzerland over a decade ago (2008), the discussion over affording social rights to animals in law has thus far seemingly failed to pervade modern discourse. So, is it time, or even long overdue, that the social rights of animals are enshrined in law?
 
-The Swiss ‘Animal Welfare Ordinance (AWO)’ provides legal rights for animals of gregarious (social) species to be allowed adequate social contact with others of their own species[\[2]](#_ftn2). This law ensures gregarious animals do not have their social needs neglected, in line with the constitutionally enshrined idea of the dignity of living beings[\[3]](#_ftn3)[\[4]](#_ftn4). Whilst “social animal rights” can be considered a broad term, the AWO goes even further for some animals; it specifies for rabbits, for example, that young animals shall not be kept individually for their first eight weeks[\[5]](#_ftn5). Other animals, which are not necessarily given the label ‘gregarious’, are also afforded certain social rights; owners of dogs and cats are obligated to keep their pets in sufficient daily contact with humans and, as far as possible, with other members of their own species[\[6]](#_ftn6). The law is specific and sensitive to the needs of exact species’, specifying in annexes exactly how many animals should live together and what should be made available to them for a species-appropriate existence (e.g. hiding places, nailing places, bathing places or burrowing material).
+The Swiss ‘Animal Welfare Ordinance (AWO)’ provides legal rights for animals of gregarious (social) species to be allowed adequate social contact with others of their own species\[[2]](#_ftn2). This law ensures gregarious animals do not have their social needs neglected, in line with the constitutionally enshrined idea of the dignity of living beings\[[3]](#_ftn3)\[[4]](#_ftn4). Whilst “social animal rights” can be considered a broad term, the AWO goes even further for some animals; it specifies for rabbits, for example, that young animals shall not be kept individually for their first eight weeks\[[5]](#_ftn5). Other animals, which are not necessarily given the label ‘gregarious’, are also afforded certain social rights; owners of dogs and cats are obligated to keep their pets in sufficient daily contact with humans and, as far as possible, with other members of their own species\[[6]](#_ftn6). The law is specific and sensitive to the needs of exact species’, specifying in annexes exactly how many animals should live together and what should be made available to them for a species-appropriate existence (e.g. hiding places, nailing places, bathing places or burrowing material).
 
-For those who have never heard of the phenomenon of animal social rights, these laws could be seen as potentially onerous for pet owners, and they raise four common arguments. First, it is argued that such requirements would put people off getting pets, potentially limiting the exposure of children to animals and animal welfare at a young age. Secondly, these critics say that encouraging the keeping of multiple social animals together should be good standard practice to be advised by pet traders, but to be legally enforced would be a step too far. Thirdly, those opposed to these rights cite issues of enforcement. Under-resourced enforcement acts as a barrier to ensuring animal welfare laws are being adequately implemented even in the worst cases of animal abuse; is it impractical to believe that social animal rights could be properly policed? And finally, these critics allude to the inconsistent definitions of the exact numbers needed for the animal’s social needs to have be met. The RSPCA, for example, states that guinea-pigs need to be in groups of five to ten[\[7]](#_ftn7), whilst the aforementioned Swiss law only requires two. Does this mean that animal welfare is still being inadequately handled by the AWO?
+For those who have never heard of the phenomenon of animal social rights, these laws could be seen as potentially onerous for pet owners, and they raise four common arguments. First, it is argued that such requirements would put people off getting pets, potentially limiting the exposure of children to animals and animal welfare at a young age. Secondly, these critics say that encouraging the keeping of multiple social animals together should be good standard practice to be advised by pet traders, but to be legally enforced would be a step too far. Thirdly, those opposed to these rights cite issues of enforcement. Under-resourced enforcement acts as a barrier to ensuring animal welfare laws are being adequately implemented even in the worst cases of animal abuse; is it impractical to believe that social animal rights could be properly policed? And finally, these critics allude to the inconsistent definitions of the exact numbers needed for the animal’s social needs to have be met. The RSPCA, for example, states that guinea-pigs need to be in groups of five to ten\[[7]](#_ftn7), whilst the aforementioned Swiss law only requires two. Does this mean that animal welfare is still being inadequately handled by the AWO?
 
 These four arguments, crucially, are flawed, and misunderstanding such a monumental step forward in the development for animal rights is at the detriment of progress; progress for animals, and progress for our species’ understanding of animal rights.
 
@@ -28,8 +28,6 @@ For now, it is up to animal lawyers to not lose sight of these progressive laws 
 Adam Smith\
 Resilience Manager\
 Civil Servant
-
-
 
 **Swiss legislation on the keeping of animals in groups – Animals that must be kept at least in pairs**
 
@@ -67,26 +65,24 @@ The following list does not include animals in which socialisation attempts have
 
 * The Ordinance does not list individual species; however, aquarium fish must have their species-appropriate requirements observed. This means schooling fish, such as barbels, tetra, guppies and goldfish should never be kept individually.
 
+\[[1]](#_ftnref1) „Die Tiere sind in Gruppen von mindestens 2 Tieren zu halten.“ *Author’s translation:* \[these] animals must be kept in groups of 2, minimum; (Wegweiser Tierschutzgesetz, *Author’s* *translation:* a guide to the Animal Protection Act, accessible from [chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/http://www.tierschutz.com/publikationen/rechtsberatung/infothek/wegweiser_tschg.pdf](blank))
 
+\[[2]](#_ftnref2) Animal Welfare Ordinance, Article 13, accessible from <https://www.admin.ch/opc/de/classified-compilation/20080796/index.html> (auf Deutsch), [chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.blv.admin.ch/dam/blv/en/dokumente/tiere/rechts-und-vollzugsgrundlagen/animal-welfare-ordinance-tschv.pdf.download.pdf/Animal_Welfare\_Ordinance\_(TSchV)_position_as_at_1.4.2011.pdf](blank) (in English)
 
-[\[1]](#_ftnref1) „Die Tiere sind in Gruppen von mindestens 2 Tieren zu halten.“ *Author’s translation:* \[these] animals must be kept in groups of 2, minimum; (Wegweiser Tierschutzgesetz, *Author’s* *translation:* a guide to the Animal Protection Act, accessible from [chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/http://www.tierschutz.com/publikationen/rechtsberatung/infothek/wegweiser_tschg.pdf](blank))
+\[[3]](#_ftnref3) Article 120(2), Constitution of Switzerland, accessible [chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.admin.ch/opc/de/classified-compilation/19995395/201809230000/101.pdf](blank) (auf Deutsch), <https://www.admin.ch/opc/en/classified-compilation/19995395/index.html> (in English)
 
-[\[2]](#_ftnref2) Animal Welfare Ordinance, Article 13, accessible from <https://www.admin.ch/opc/de/classified-compilation/20080796/index.html> (auf Deutsch), [chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.blv.admin.ch/dam/blv/en/dokumente/tiere/rechts-und-vollzugsgrundlagen/animal-welfare-ordinance-tschv.pdf.download.pdf/Animal_Welfare\_Ordinance\_(TSchV)_position_as_at_1.4.2011.pdf](blank) (in English)
+\[[4]](#_ftnref4) This is considerable debate over this very term in the constitution. *Michel, M & E. S. Kayasseh (2011) ‘The Legal Situation of Animals in Switzerland: Two Steps Forward, One Step Back – Many Steps to Go’, Journal of Animal Law Vol. VII (Michigan)* has a very good discussion of this point.
 
-[\[3]](#_ftnref3) Article 120(2), Constitution of Switzerland, accessible [chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://www.admin.ch/opc/de/classified-compilation/19995395/201809230000/101.pdf](blank) (auf Deutsch), <https://www.admin.ch/opc/en/classified-compilation/19995395/index.html> (in English)
+\[[5]](#_ftnref5) Animal Welfare Ordinance, Article 64
 
-[\[4]](#_ftnref4) This is considerable debate over this very term in the constitution. *Michel, M & E. S. Kayasseh (2011) ‘The Legal Situation of Animals in Switzerland: Two Steps Forward, One Step Back – Many Steps to Go’, Journal of Animal Law Vol. VII (Michigan)* has a very good discussion of this point.
+\[[6]](#_ftnref6) Animal Welfare Ordinance, Article 801 (cats) and Article 70 (dogs)
 
-[\[5]](#_ftnref5) Animal Welfare Ordinance, Article 64
+\[[7]](#_ftnref7) <https://www.rspca.org.uk/adviceandwelfare/pets/rodents/guineapigs>
 
-[\[6]](#_ftnref6) Animal Welfare Ordinance, Article 801 (cats) and Article 70 (dogs)
+\[[8]](#_ftnref8) <https://www.swissinfo.ch/eng/pet-ownership_no-more-obligatory-courses-for-dog-owners/42459536>
 
-[\[7]](#_ftnref7) <https://www.rspca.org.uk/adviceandwelfare/pets/rodents/guineapigs>
+\[[9]](#_ftnref9) Michel, M & E. S. Kayasseh (2011) ‘The Legal Situation of Animals in Switzerland: Two Steps Forward, One Step Back – Many Steps to Go’, Journal of Animal Law Vol. VII (Michigan), p. 13
 
-[\[8]](#_ftnref8) <https://www.swissinfo.ch/eng/pet-ownership_no-more-obligatory-courses-for-dog-owners/42459536>
-
-[\[9]](#_ftnref9) Michel, M & E. S. Kayasseh (2011) ‘The Legal Situation of Animals in Switzerland: Two Steps Forward, One Step Back – Many Steps to Go’, Journal of Animal Law Vol. VII (Michigan), p. 13
-
-[\[10]](#_ftnref10) <https://www.bbc.co.uk/news/blogs-news-from-elsewhere-37418371>
+\[[10]](#_ftnref10) <https://www.bbc.co.uk/news/blogs-news-from-elsewhere-37418371>
 
 <!--EndFragment-->
