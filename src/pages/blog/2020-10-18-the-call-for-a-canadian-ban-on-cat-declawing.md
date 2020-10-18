@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Blog: The Call for a Canadian Ban on Cat Declawing"
-date: 2020-04-26T12:26:07.500Z
+date: 2019-04-26T12:26:07.500Z
 ---
 ![Ginger cat ](/img/blog-post-april-26.jpg "Blog: The Call for a Canadian Ban on Cat Declawing")
 
