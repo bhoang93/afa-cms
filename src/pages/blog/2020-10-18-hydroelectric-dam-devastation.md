@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Blog: Hydroelectric Dam Devastation"
-date: 2020-10-18T12:29:08.202Z
+date: 2019-10-18T12:29:08.202Z
 ---
 ![Orangutan ](/img/my-post.png "Blog: Hydroelectric Dam Devastation")
 
