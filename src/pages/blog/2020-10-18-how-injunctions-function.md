@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: How Injunctions Function
+title: "Blog: How Injunctions Function"
 date: 2019-11-28T16:12:13.632Z
 ---
-![](/img/unnamed-1-1-.jpg "How Injunctions Function")
+![Golden statue holding up golden weighing scales ](/img/unnamed-1-1-.jpg "Blog: How Injunctions Function")
 
 <!--StartFragment-->
 
