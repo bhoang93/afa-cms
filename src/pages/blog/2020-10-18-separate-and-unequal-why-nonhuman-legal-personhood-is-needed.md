@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: "Separate and Unequal: Why Nonhuman Legal Personhood is Needed"
+title: "Blog: Separate and Unequal: Why Nonhuman Legal Personhood is Needed"
 date: 2019-12-14T16:13:45.715Z
 ---
-![](/img/bb49d29c-c31a-42a6-b7e5-d64f16942e2a.png "Separate and Unequal: Why Nonhuman Legal Personhood is Needed")
+![Orangutan looking out of cage](/img/bb49d29c-c31a-42a6-b7e5-d64f16942e2a.png "Blog: Separate and Unequal: Why Nonhuman Legal Personhood is Needed")
 
 <!--StartFragment-->
 
