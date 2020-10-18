@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: The Cats Bill – More Legal Protection For Animals On The Roads?
+title: "Blog: The Cats Bill – More Legal Protection For Animals On The Roads?"
 date: 2019-06-28T12:37:31.150Z
 ---
-![](/img/unnamed.jpg "The Cats Bill – More Legal Protection For Animals On The Roads?")
+![Cat in front of stairs](/img/unnamed.jpg "Blog: The Cats Bill – More Legal Protection For Animals On The Roads?")
 
 <!--StartFragment-->
 
@@ -23,7 +23,5 @@ If you see an animal injured on the road, both the RSPCA and Cats Protection giv
 Anne-Marie Norman\
 Legal Advisor\
 Independent Contributor
-
-
 
 <!--EndFragment-->
