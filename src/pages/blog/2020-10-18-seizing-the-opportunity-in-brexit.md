@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: Seizing the Opportunity in Brexit
+title: "Blog: Seizing the Opportunity in Brexit"
 date: 2019-02-19T13:15:58.374Z
 ---
-![](/img/agriculture-blog-photo.jpg "Seizing the Opportunity in Brexit")
+![Cows on grass](/img/agriculture-blog-photo.jpg "Blog: Seizing the Opportunity in Brexit")
 
 <!--StartFragment-->
 
