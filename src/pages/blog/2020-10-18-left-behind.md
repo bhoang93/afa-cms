@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: Left Behind
+title: "Blog: Left Behind"
 date: 2020-03-14T16:16:55.923Z
 ---
-![Dogs in water](/img/b17b2e2f-b89e-478f-a445-4e8f637e0d01.jpeg "Left Behind")
+![Dogs in water](/img/b17b2e2f-b89e-478f-a445-4e8f637e0d01.jpeg "Blog: Left Behind")
 
 <!--StartFragment-->
 
