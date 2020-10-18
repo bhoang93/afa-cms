@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: A new era for thoroughbred horses?
+title: "Blog: A New Era for Thoroughbred Horses?"
 date: 2019-08-23T12:47:24.225Z
 ---
-![](/img/unnamed-1-.jpg "A new era for thoroughbred horses?")
+![Horses racing on track](/img/unnamed-1-.jpg "Blog: A New Era for Thoroughbred Horses?")
 
 <!--StartFragment-->
 
