@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: How to go Marching Without Getting the Boot
+title: "Case Update: How to go Marching Without Getting the Boot"
 date: 2019-09-20T12:49:40.864Z
 ---
-![](/img/unnamed-1.jpg "How to go Marching Without Getting the Boot")
+![People marching in the street](/img/unnamed-1.jpg "Case Update: How to go Marching Without Getting the Boot")
 
 <!--StartFragment-->
 
@@ -66,7 +66,5 @@ Barrister, practicing from chambers in the south west and London
 <https://www.crowdjustice.com/case/securing-protection-for-vegans/>
 
 <https://www.bbc.co.uk/news/uk-46385597>
-
-
 
 <!--EndFragment-->
