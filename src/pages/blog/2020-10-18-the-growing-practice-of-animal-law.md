@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: The Growing Practice of Animal Law
+title: "Blog: The Growing Practice of Animal Law"
 date: 2019-01-16T13:05:12.343Z
 ---
-![](/img/blog-post-animal-law.png "The Growing Practice of Animal Law")
+![Human hand holding monkey hand](/img/blog-post-animal-law.png "Blog: The Growing Practice of Animal Law:")
 
 <!--StartFragment-->
 
