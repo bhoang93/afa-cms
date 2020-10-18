@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: Big data, artificial intelligence and animal rights
+title: "Blog: Big Data, Artificial Intelligence and Animal Rights"
 date: 2019-06-07T12:33:50.530Z
 ---
-![](/img/june-7-copy-1.png "Big data, artificial intelligence and animal rights")
+![Robot hand touching a butterfly](/img/june-7-copy-1.png "Blog: Big Data, Artificial Intelligence and Animal Rights")
 
 <!--StartFragment-->
 
