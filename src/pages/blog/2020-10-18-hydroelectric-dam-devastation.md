@@ -1,13 +1,11 @@
 ---
 templateKey: blog-post
-title: Hydroelectric Dam Devastation
+title: "Blog: Hydroelectric Dam Devastation"
 date: 2020-10-18T12:29:08.202Z
 ---
-![](/img/my-post.png "Hydroelectric Dam Devastation")
+![Orangutan ](/img/my-post.png "Blog: Hydroelectric Dam Devastation")
 
 <!--StartFragment-->
-
-
 
 The Amazon rainforest covers around 5.5 million square kilometres of land and sprawls over approximately 9 countries, it is considered one of the most biodiverse regions on earth. There is an increasing concern in respect of the rainforest and its potential destruction due to 60 new hydroelectric dam projects that are currently in progress and in respect of those that have already been constructed.
 
@@ -39,8 +37,6 @@ The law regulating issues facing the environment are seen to be most adequate an
 
 Kelly Hughes\
 Paralegal (Independent contributor)
-
-
 
 **Sources:**
 
