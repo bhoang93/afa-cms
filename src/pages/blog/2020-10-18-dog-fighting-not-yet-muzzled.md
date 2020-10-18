@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Blog: Dog Fighting Not Yet Muzzled"
-date: 2020-05-10T12:27:45.069Z
+date: 2019-05-10T12:27:45.069Z
 ---
 ![Dog looking through old fence](/img/blog-post-may-10.png "Blog: Dog Fighting Not Yet Muzzled")
 
