@@ -1,0 +1,27 @@
+---
+templateKey: blog-post
+title: Squirrel-eater convictions no victory for animals
+date: 2019-07-26T12:42:30.814Z
+---
+![](/img/img_5827.png "Squirrel-eater convictions no victory for animals")
+
+<!--StartFragment-->
+
+\
+On Monday two men who ate dead, uncooked squirrels at a vegan food fair were [found guilty](https://www.cps.gov.uk/london-south/news/men-who-ate-dead-squirrels-outside-vegan-stall-london-fined) of public a public order offence and fined. This was a crass, gratuitous act of carnist trolling, by callous individuals whose food-related ethics could not be further from most animal rights activists. As such, animal lovers may be tempted to celebrate their punishment at the hands of the criminal justice system. However, this was no victory for animals, and still less for animal activists.
+
+Deonisy Khlebnikov, 29, and Gatis Lagzdins, 22 are anti-vegan activists. They believe “veganism is malnutrition”. They promote and celebrate the right to eat other animals. In order to put vegans off their food and raise awareness of the perceived dangers of veganism, they publicly consumed raw squirrels outside a vegan stall in Soho. Several people complained and asked them to stop, one young boy with autism became visibly distressed.
+
+Two animals were killed, and two anti-vegans were punished; but this was not an animal protection case. The protestors were convicted of using disorderly behaviour likely to cause harassment, alarm or distress. This is a public order offence; the victims of which are those members of the human public likely to be distressed. In order for this to be considered an animal protection case, animals’ rights or welfare laws would need to be engaged. The hapless squirrels had no rights: they had no standing to bring any kind of claim themselves, they were in no way recognised as victims and the law offered them no protection against being shot as “[game](https://www.standard.co.uk/news/crime/protesters-who-ate-squirrels-at-vegan-food-fair-guilty-of-causing-public-distress-a4196221.html)”. When game is shot, it is reduced to a mere thing. The Defendants could have been prosecuted for the same offence had they, for instance, eaten their own vomit to similar effect.
+
+Once any perception of animal protection motivations are dismissed with regard to the prosecution, the case appears in a different light. It is no victory for animal activists, or any activists. It is a victory of the state over people’s right to protest. Essentially, two protestors were convicted and fined for doing something that is not, in and of itself, illegal; but became illegal when done in a way that was likely to distress people by, in this instance, putting them off their food.
+
+Before charging a suspect, crown prosecutors must be satisfied that it is in the public interest to prosecute. The fact that such a petty act of protest passed this test should worry animal and vegan activists. Using distress to put people off their food is a staple of vegan activism. In November last year, Vegan activists [stormed a steakhouse](https://www.independent.co.uk/news/uk/home-news/vegan-protest-activists-steakhouse-touro-brighton-recording-cow-animal-rights-a8654381.html), playing records of animals being slaughtered. Whilst the damning coverage of this in the media suggests perhaps this wasn’t vegan activism at its most effective; the chants of “It’s not food, it’s violence,” are pretty typical of vegan activism. The meat and dairy industries are undeniably brutal; what happens daily in battery farms around the world is one of humanity’s greatest moral atrocities. Exposing this is bound to be distressing; and that distress in turn is a vital tool in changing attitudes towards animals and food.
+
+Protestors today play an important role in shaping the law, policy and morals of the future. This is why it is so important that human rights such as freedoms of belief, assembly and expression are protected. You may not agree with Khlebnikov and Lagzdins’ beliefs, but they have a right to have and express them. They expressed these through what, under current law, is no more than a petty act of protest. You may believe that the current law is wrong to allow them to procure or eat dead squirrels, but that isn’t what they were punished for. Justice for animals is about stopping abusive treatment that harms animals, not punishing petty disorder that makes humans feel distressed. As such, their convictions are not evidence of progress for animal activists, they only serve to illustrate the increasingly draconian approach of the police and CPS towards protestors; an approach that will primarily harm those closest to our causes. For instance, just last week it emerged that the MET and CPS are working together to bring the vast majority of Extinction Rebellion suspects, [more than 900 cases](https://www.theguardian.com/environment/2019/jul/18/police-call-for-tougher-sentences-to-deter-extinction-rebellion), to court over the coming months. The prosecution of petty protestors, even those whose actions or causes we disagree with, should concern activists of all persuasions.
+
+Sam March\
+BPTC student, The University of Law\
+Paralegal, Tuckers Solicitors/Alcindor Law
+
+<!--EndFragment-->
