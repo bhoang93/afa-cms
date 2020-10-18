@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: Humane Education
+title: "Blog: Humane Education"
 date: 2019-08-09T12:46:15.037Z
 ---
-![](/img/alice-blog-copy-2.png "Humane Education")
+![People writing on books](/img/alice-blog-copy-2.png "Blog: Humane Education")
 
 <!--StartFragment-->
 
@@ -31,7 +31,5 @@ Overall, my day at the Summer School was insightful, inspiring and full of promi
 Alice Mennell\
 Paralegal\
 Stone King
-
-
 
 <!--EndFragment-->
