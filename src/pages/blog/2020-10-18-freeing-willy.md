@@ -1,13 +1,11 @@
 ---
 templateKey: blog-post
-title: Freeing Willy
+title: "Blog: Freeing Willy"
 date: 2019-07-05T12:38:59.672Z
 ---
-![](/img/blog-post-1.jpg "Freeing Willy")
+![Whale jumping out of water](/img/blog-post-1.jpg "Blog: Freeing Willy")
 
 <!--StartFragment-->
-
-
 
 **Canada introduces a new law that bans the captivity of Whales, Dolphins and Porpoises.**
 
