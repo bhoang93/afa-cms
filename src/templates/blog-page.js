@@ -11,7 +11,7 @@ const News = ({ data }) => {
   return (
     <Wrapper>
       <div>
-        <h2 className="sub-heading">Blog</h2>
+        <h2 className="sub-heading">News</h2>
         <div
           className="news-blog-text"
           dangerouslySetInnerHTML={{
