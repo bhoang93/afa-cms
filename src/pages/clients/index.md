@@ -134,4 +134,19 @@ quotes:
       for Animals acting for me there would be no tears of happiness, there
       would be no peace in the hearts of this lady and her dog.
     author: "- Mrs Lane"
+  - quote: >-
+      Animal welfare law is a specialist and growing area of concern and can and
+      should be used to affect positive change for animals. The scope for making
+      improvements for animal welfare both here in the UK and abroad is immense.
+      Our experience of the ban on fur farming here in the UK as well as EU-wide
+      import bans on cat and dog fur and the products of commercial seal hunts
+      have shown just what can be achieved and the huge impacts these
+      initiatives can have.
+
+
+      The experience and dedication of the team at Advocates for Animals as well as a proven record of achievement in animal law means they are uniquely qualified and we very much look forward to future collaborations
+
+
+      Advocates For Animals is long overdue and Respect for Animals would have no hesitation in instructing this firm in the future.
+    author: Respect for Animals
 ---
