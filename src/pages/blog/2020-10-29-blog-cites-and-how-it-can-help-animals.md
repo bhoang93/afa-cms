@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Blog: CITES and How It Can Help Animals "
 date: 2020-10-29T20:48:32.629Z
 ---
-![Pangolin](/img/photo-1603703661537-137f7373028a.jpg "Blog: CITES and How It Can Help Animals ")
+![Pangolin](/img/oangonlian.jpg "Blog: CITES and How It Can Help Animals ")
 
 International wildlife trade has received an increasing amount of attention over recent years, whether this be due to the near extinction of pangolins, the trade in ivory or the export and import of 'trophies' from hunting. In this blog, Advocates for Animals solicitor Alice Collinson will explain how the international trade in wildlife is regulated.
 \
