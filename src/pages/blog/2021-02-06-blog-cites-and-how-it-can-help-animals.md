@@ -3,38 +3,62 @@ templateKey: blog-post
 title: "CASE SUMMARY: HIGHBURY POULTRY FARM PRODUCE V CPS"
 date: 2020-10-30T18:00:17.312Z
 ---
-International wildlife trade has received an increasing amount of attention over recent years, whether this be due to the near extinction of pangolins, the trade in ivory or the export and import of 'trophies' from hunting. In this blog, Advocates for Animals solicitor Alice Collinson will explain how the international trade in wildlife is regulated.\
-\
-**What is CITES?**
+*16 October 2020 by Samuel March*
 
-The Convention on International Trade in Endangered Species of Wild Fauna and Flora regulates international trade in certain species (and their parts). The Convention was created in the 70s, and is supplemented by developing documents agreed between the Parties, namely ‘Resolutions’ and ‘Decisions.’ It relies on the signatory countries to implement the agreed provisions into their domestic law. International cooperation is one of its core principles, recognising wildlife as a shared responsibility. A Conference of the Parties is held every 3 years to discuss Party implementation and compliance, with Committee meetings in between.
+Judgment: [R (on the application of Highbury Poultry Farm Produce Ltd) (Appellant) v Crown Prosecution Service (Respondent) \[2020] UKSC 39](https://www.supremecourt.uk/cases/docs/uksc-2018-0231-judgment.pdf)
 
-**What protections does it offer?**\
-\
-It offers protection to endangered species that are placed in one of three Appendices, which provide varying degrees of protection. Appendix I species are afforded the strictest protection. There is a total prohibition against international trade in Appendix I species, unless the trade meets certain exemptions. In turn, contracting Parties agree to penalise trade (and possession) in CITES listed species at a national level. For example, trading pangolins internationally (as an Appendix I listed species) is restricted to where: the purpose of the trade is determined to be non-commercial and the trade is also determined to have minimal conservation impact. Further, specific mechanisms provide for changes to species protection. For example, species can be uplisted, reviews can be carried out where the trade in certain species is of concern, and draft Resolutions may be proposed to address gaps in implementation and other broader concerns.
+On 16 October 2020 the UK Supreme Court unanimously ruled against Highbury Poultry Farm Produce Ltd (“the Appellants”) in an appeal concerning the scope of the legal duties on business operators under [Regulation 30(1)(g) the Welfare of Animals at the Time of Killing (England) Regulations 2015](https://www.legislation.gov.uk/uksi/2015/1782/regulation/30/made) (“the UK Regulation”). The effect of this may be to leave the Appellants with no defence to criminal charges.
 
-**How has it been used in the past to help animals?**
+**FACTS**
 
-Species are regularly uplisted by agreement. For example, in 2016 all pangolin species were uplisted to Appendix I.
+Highbury Poultry Farm Produce Ltd (“the Appellants”) operates a poultry slaughterhouse in Shropshire. The average daily throughput is 75 thousand chickens, equating to 19.5 million or so chickens every year.
 
-In another example, in 2016 a Resolution was passed calling for a closure of domestic ivory markets, following which a number of countries have taken such steps, including the UK.
+The birds have their legs shackled to a moving line and are then submitted to a number of sequential processes, including stunning, bleeding and scalding. On separate occasions in 2016, three chickens went into the scalding tank whilst still alive because their necks were not properly cut.
 
-Anyone, including individuals and animal protection groups, are eligible to submit information and complaints to the CITES governing bodies relating to illegal wildlife trade. Failure to comply can lead to various measures, such as a request for progress reports on compliance, or a recommendation that a country suspends all (or just commercial) trade in one or more wildlife species until they remedy the Convention breaches. This is a last resort, but such recommendations are currently in place involving a number of countries and species. For example, all trade in African grey parrots was suspended in DRC in 2016 due to concerns relating to use of wild caught parrots.\
-\
-**Room for improvement?**
+The Appellants were charged with two offences in respect of each incident, contrary the UK Regulation. The UK regulation is implementing legislation which gives domestic effect to [Regulation (EC) No 1099/2009](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2009:303:0001:0030:EN:PDF) (“the EU Regulation”). The offences concerned alleged breaches of
 
-CITES is ultimately focused on the sustainable utilisation of wildlife for human benefit.
+1. *Article 3 of the EU Regulation*, which requires that animals “shall be spared avoidable pain, distress or suffering” during their killing; and
+2. *Article 15(1) of the EU Regulation*, which sets out requirements for the bleeding of animals (including that “in case of simple stunning\[…] the two carotid \[neck] arteries or the vessels from which they arise shall be systematically severed\[…] Further dressing or scalding shall only be performed once the absence of signs of life of the animal has been verified”).
 
-The Convention does address animal welfare in the context of shipments of live animals, requiring that during the shipment of all CITES-listed species the ‘risk of injury, damage to health or cruel treatment’ is minimised. However, there are no broad animal welfare provisions.
+**ISSUE**
 
-Signatories are also permitted to put in Reservations in relation to Appendix listing in their countries. For example some African countries (including South Africa and Zimbabwe) have reserved the right to reduce the protection of their elephants by downlisting these elephants from Appendix I, to Appendix II.
+Two preliminary points of law were raised in the magistrates’ court. These two issues found their way to the Supreme Court after the Appellants’ application for Judicial Review was [dismissed by the High Court](https://www.bailii.org/ew/cases/EWHC/Admin/2018/3122.html). The two questions raised were
 
-Exemptions to trade are widely used. Trade in listed species is permitted provided that certain (importing and exporting) criteria are met, such as where trade is deemed to be non-commercial in relation to Appendix I species.
+1. whether proof of an offence contrary to the UK Regulations requires the prosecution to prove *mens rea* on the part of the business operator; and
+2. whether the prosecution must prove a culpable act or omission on the part of the Appellants.
 
-Not all Party countries have the agreed legislative framework in place, and in some countries, where legislation is in place, enforcement is lacking.
+Most criminal offences require not just an *actus reus* (guilty act) but also that a defendant has a *mens rea* (guilty mind). Depending on the offence, the *mens rea* could mean intention, recklessness, negligence or even just knowledge of the factual circumstances constituting the offence. There are, however, certain offences for which there is no need to show a “mens rea”. These are called “strict liability” offences. With strict liability offences, it does not matter what the defendant knew or intended, if the act is proved as a matter of fact, then the offence has been committed. The central question in this case was, therefore, whether the UK Regulation created offences of strict liability.
 
-Tough sanctions by the CITES governing bodies, such as trade suspensions for breaches of the Convention, are seen as a last resort, following progress reports, cautions, and other steps.
+**HELD**
 
-**Getting Advice**
+Giving the sole judgment, Lord Burrows ruled against the Appellants, holding that both offences are offences of strict liability. Negligence by the business operator does not have to be proved.
 
-This blog post is not legal advice and should not be relied on as such. If you require legal advice on animal protection laws please contact info@advocates-for-animals.com
+The Court considered that the UK Regulation is no more than the mechanism through which the EU Regulation is given effect in domestic law. It is solely the interpretation of the EU Regulation that matters.
+
+At \[15] Lord Burrows held that
+
+“if the EU Regulation imposes strict liability, the domestic regulation must (as a matter of EU law) do the same; and certainly, without a clear indication in the domestic regulation that the EU Regulation is being departed from, the best interpretation of the domestic legislation must be that it is merely the mechanism for implementing what has been laid down in the EU Regulation.”
+
+The court considered that both of the relevant sections of the EU regulation were worded in such a way as to suggest strict liability.
+
+As regards the first offence, having considered that the use of the passive voice in providing that animals “shall be spared” avoidable pain, distress or suffering “leaves no obvious room for a requirement of intention or negligence” \[39], the Court held at \[53] that,
+
+“Looking at the words used in the EU Regulation, in their context and especially in the light of the purpose of the Regulation, it is therefore my view that, applying EU law principles of legislative interpretation and bearing in mind that imposing strict criminal liability is not contrary to EU law, the first offence \[…] is correctly interpreted as imposing strict liability.”
+
+Similarly, in respect of the second offence, the Court held at \[33] that
+
+“By article 15(1), business operators “shall ensure” that the operational rules are complied with. And the operational rules are specified in Annex III, point 3.2 in very clear and precise terms: “the two carotid arteries or the vessels \[…] shall be systematically severed”. There is no hint that business operators shall be liable only if the operational rules are intentionally or negligently infringed. If strict liability were not being imposed, words importing culpability could have easily been included; but they have not been.”
+
+The Court ended with some final observations, agreeing at \[54] with the conclusions of the Divisional Court that
+
+“\[T]he EU Regulation \[…] should be seen as setting forth a comprehensive code or rule-book which must be complied with by the business operator at all material times. On the facts of the present case, there was a strict obligation to sever the main arteries systematically, and a concomitant strict obligation to spare these birds avoidable pain.”
+
+**COMMENTARY**
+
+These issues were raised as preliminary matters, but they are of critical importance to the case. As noted by Mr Justice Jay at \[55] of the [High Court judgment](https://www.bailii.org/ew/cases/EWHC/Admin/2018/3122.html) on the matter,
+
+“The practical effect of his ruling, if upheld \[…], may be that \[the Appellant] has no defence to these charges; or, if \[the Appellant] is right and Regulation 30(1)(g) requires proof of *mens rea*, the prosecution will be discontinued. In that sense, therefore, the rulings on the preliminary issues may be dispositive.”
+
+The Crown Prosecution Service, who were the respondents in this matter, will now be able to proceed with the prosecution. It may well be that the Appellants now have no defence to the charges, and will be convicted of criminal offences.
+
+<!--EndFragment-->
