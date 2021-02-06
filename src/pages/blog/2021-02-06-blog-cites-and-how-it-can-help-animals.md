@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "CASE SUMMARY: HIGHBURY POULTRY FARM PRODUCE V CPS"
+title: "Case Summary: Highbury Poultry Farm Produce V CPS"
 date: 2020-10-30T18:00:17.312Z
 ---
 *16 October 2020 by Samuel March*
