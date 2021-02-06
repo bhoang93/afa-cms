@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Blog: CITES and How It Can Help Animals"
+title: "CASE SUMMARY: HIGHBURY POULTRY FARM PRODUCE V CPS"
 date: 2020-10-30T18:00:17.312Z
 ---
 International wildlife trade has received an increasing amount of attention over recent years, whether this be due to the near extinction of pangolins, the trade in ivory or the export and import of 'trophies' from hunting. In this blog, Advocates for Animals solicitor Alice Collinson will explain how the international trade in wildlife is regulated.\
