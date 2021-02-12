@@ -12,13 +12,32 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer__sra">
-        <iframe
-          title="SRA"
-          frameBorder="0"
-          scrolling="no"
-          src="https://cdn.yoshki.com/iframe/55845r.html"
-          style={{ height: "100%", width: "100%" }}
-        />
+        <div
+          style={{
+            position: "relative",
+            paddingBottom: "59.1%",
+            height: "auto",
+            overflow: "hidden",
+          }}
+        >
+          <iframe
+            frameBorder="0"
+            scrolling="no"
+            allowTransparency="true"
+            src="https://cdn.yoshki.com/iframe/55845r.html"
+            style={{
+              border: 0,
+              margin: 0,
+              padding: 0,
+              backgroundColor: "transparent",
+              top: 0,
+              left: 0,
+              width: "100%",
+              height: "100%",
+              position: "absolute",
+            }}
+          ></iframe>
+        </div>
       </div>
       <div className="footer__complaints_container">
         <Link className="footer__complaints" exact to="/complaints">
