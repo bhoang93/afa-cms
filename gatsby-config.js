@@ -60,18 +60,13 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
-          {
-            family: `Poppins`,
-            variants: [`400`, `500`, `700`],
-          },
-          {
-            family: `Merriweather`,
-            variants: [`400`, `700`],
-          },
+          `Poppins`,
+          `Merriweather`, // you can also specify font weights and styles
         ],
+        display: "swap",
       },
     },
     {
