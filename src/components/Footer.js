@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import { Link } from "gatsby";
 
 import SocialMediaIcon from "../components/SocialMediaIcon";
@@ -9,21 +9,6 @@ import facebook from "../img/SocialMediaIcons/facebook2.svg";
 import linkedin from "../img/SocialMediaIcons/linkedin.svg";
 
 const Footer = () => {
-  useEffect(() => {
-    function deferIframe() {
-      var iframeElem = document.getElementsByTagName("iframe");
-      for (var i = 0; i < iframeElem.length; i++) {
-        if (iframeElem[i].getAttribute("data-src")) {
-          iframeElem[i].setAttribute(
-            "src",
-            iframeElem[i].getAttribute("data-src")
-          );
-        }
-      }
-    }
-    deferIframe();
-  }, []);
-
   return (
     <footer className="footer">
       <div className="footer__sra">
@@ -39,8 +24,8 @@ const Footer = () => {
             frameBorder="0"
             scrolling="no"
             allowTransparency="true"
-            src=""
-            data-src="https://cdn.yoshki.com/iframe/55845r.html"
+            referrerpolicy="origin"
+            src="https://cdn.yoshki.com/iframe/55845r.html"
             style={{
               border: 0,
               margin: 0,
