@@ -4,10 +4,9 @@ path: /complaints
 title: Complaints
 image: /img/animal10.jpg
 ---
-
 We want to give you the best possible service. However, if at any point you become unhappy or concerned about the service we provided then you should inform us immediately, so that we can do our best to resolve the problem.
 
-In the first instance it may be helpful to contact the person who is working on your case to discuss your concerns and we will do our best to resolve any issues at this stage. If you would like to make a formal complaint, then you can read our full complaints procedure [here](https://advocates-for-animals.com/complaints#). Making a complaint will not affect how we handle your case.
+In the first instance it may be helpful to contact the person who is working on your case to discuss your concerns and we will do our best to resolve any issues at this stage. Making a complaint will not affect how we handle your case.
 
 The Solicitors Regulation Authority can help you if you are concerned about our behaviour. This could be for things like dishonesty, taking or losing your money or treating you unfairly because of your age, a disability or other characteristic.
 
