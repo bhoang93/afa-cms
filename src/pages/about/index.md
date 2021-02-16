@@ -42,24 +42,24 @@ member:
 
       Despite all the incredible attributes animals possess and their sentience, they are extremely vulnerable in our society, it is therefore essential that a framework is in place to prevent certain treatment. You do not have to be an animal lover or an activist in this area to recognise that animals deserve protection under the law and that those laws need to be enforced.
   - name: Vanessa Johansson
-    image: /img/vanessa_johansson.jpeg
+    image: /img/150547812_839747276873428_5923256832620957927_n.jpg
     body: >-
-      # Vanessa Johansson
+      # Jay Staker
 
 
-      Vanessa has dedicated her career to the non-profit and education sectors. From management to hands-on help, Vanessa loves guiding people and organisations towards success. In 2018, she co-founded the Solberga Foundation, a philanthropic organisation focused on animal and environmental justice. Enthusiastic and personable, she is a tireless advocate for a more compassionate world. Vanessa joins the team as an Operational Support Officer.
+      Jay is a LLM student aiming to qualify as a solicitor. He read Philosophy, Politics & Economics at The University of Oxford before moving to London on a law scholarship. Jay is an experienced activist across a range of campaign areas, including as co-lead of the successful campaign to make Oxford University transition away from fossil fuels. He is passionate about access to justice and is currently involved in a number of pro bono legal projects. He is a committed advocate for animals. 
 
 
       ### How did you get into animal protection?
 
 
-      My mission in life is to seek justice for animals and reduce as much suffering as possible. My passion for this cause has led me to volunteer for a number of animal charities and establish an organisation that supports the animal protection industry. As a dedicated vegan, I also try to be an ambassador for animal protection wherever I can. When I learned of Advocates for Animals’ mission: ‘making full use of the law to protect animals’ I was eager to get involved.
+      Growing up in rural Australia, a country with a large animal agriculture sector, a belief in animal protection was certainly not the norm. I came into direct contact both with an incredible and diverse wildlife, but also severe exploitation of domesticated animals. My way into animals protection was both academic and political. I studied animal ethics and effective altruism as part of my undergraduate studies. Alongside this, I engaged in both party political and non-partisan campaigns to put animal issues on the agenda. It was my switch to law which really got me interested in the legal side of animal protection. From there, I began at AfA doing ad hoc legal research, before being taken on as Operations Assistant.
 
 
       ### Why do you care about animal law?
 
 
-      Without a voice to speak up and protest their treatment, animals are among the most abused beings on the planet. If we ensure existing laws and regulations are strictly enforced, we can significantly improve animal protection.
+      I believe the law is one of the most effective tools we have to eliminate cruelty in all forms. Unfortunately, the law with regard to animals continues to lag behind. Nevertheless, AfA and other groups have shown that a proper application of the protections afforded to non-human animals can make a huge difference.
   - image: /img/alice_collinson.jpg
     name: Alice Collinson
     body: >-
