@@ -41,7 +41,7 @@ member:
 
 
       Despite all the incredible attributes animals possess and their sentience, they are extremely vulnerable in our society, it is therefore essential that a framework is in place to prevent certain treatment. You do not have to be an animal lover or an activist in this area to recognise that animals deserve protection under the law and that those laws need to be enforced.
-  - name: Vanessa Johansson
+  - name: Jay Staker
     image: /img/150547812_839747276873428_5923256832620957927_n.jpg
     body: >-
       # Jay Staker
