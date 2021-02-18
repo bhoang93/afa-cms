@@ -28,7 +28,7 @@ member:
       # Edie Bowles
 
 
-      Edie is a solicitor specialising in animal protection law. She has advised many animal protection organisations and individuals on a wide range of issues, including all aspects of the Animal Welfare Act and regulations made under it, the Zoo Licensing Act, Animals (Scientific Procedures) Act and more. She is a trustee of The Humane League and the UK Centre for Animal Law, where she set up and managed the student group. She often speaks on animal protection issues and has done so in the UK Parliament, the French Senat and the East African Legislative Assembly.
+      Edie is a solicitor specialising in animal protection law. She has advised many animal protection organisations and individuals on a wide range of issues, including all aspects of the Animal Welfare Act and regulations made under it, the Zoo Licensing Act, Animals (Scientific Procedures) Act and more. She is a trustee of The Humane League and a former trustee of the UK Centre for Animal Law, where she set up and managed the nationwide student group. She often speaks on animal protection issues and has done so in the UK Parliament, the French Senat and the East African Legislative Assembly.
 
 
       ### How did you get into animal protection?
