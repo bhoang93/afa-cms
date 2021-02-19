@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Animal Protection Laws from Around the World: Brazil"
+title: "Blog: Animal Protection Laws from Around the World: Brazil"
 date: 2021-02-19T09:47:32.459Z
 ---
 ![caimans](/img/caimans-blank-.jpg)
