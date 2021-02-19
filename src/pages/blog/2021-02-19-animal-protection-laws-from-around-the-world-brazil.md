@@ -5,13 +5,13 @@ date: 2021-02-19T09:47:32.459Z
 ---
 ![caimans](/img/caimans-blank-.jpg)
 
-**Constitutional provision**
+**Constitutional Provision**
 
 In Brazil, animal protection rules are placed within different levels in the hierarchy of law. This week guest writer **Marina Baptista Rosa** will explore what it means in practice that Brazil is among the few countries of the world where animal interests are protected in the Constitution. The other countries are Switzerland, India, Slovenia, Germany, Luxembourg, Austria, and Egypt.
 
 The Brazilian Constitution provides that protecting the environment, the fauna, and the flora is a duty imposed on the public power and on the society and forbids practices that endanger ecologic functions, cause species extinction, or submit animals to cruelty (Article 225, §1, VII).
 
-**National scope legislation**
+**National Scope Legislation**
 
 Article 32 of the law on environmental crimes (national law n° 9.605/1998) provides that criminal acts such as abusing, mistreating, injuring, or mutilating wild, domestic, native, or exotic animals are punishable by up to one year of detention plus fine payments. The sanction might be raised up to a third if the action results in the death of the animal.
 
@@ -21,7 +21,7 @@ Case law demonstrates that Article 32 has been applied in a broad sense. For ins
 
 Another relevant law with national enforcement is law nº 11.794/2008, which regulates the scientific use of animals in Brazil. It instituted the National Council for Animal Experimentation Control (CONSEA), which is the body responsible to accredit institutions using animals for experimentation and to elaborate norms making this use as humane as possible.
 
-**Local scope legislation**
+**Local Scope Legislation**
 
 Brazil, being a country of continental dimensions, has many different forms of cultural manifestation. Unfortunately, some of them have questionable values.
 
