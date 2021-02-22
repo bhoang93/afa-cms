@@ -3,6 +3,8 @@ templateKey: blog-post
 title: "Blog: Animal Protection Laws from Around the World: China"
 date: 2021-02-12T13:14:17.685Z
 ---
+![](/img/china-artcile-image.jpg)
+
 600 million pigs are killed in China each year. If this number represented the average sized pigs, snout to tail, they would cover the distance between London and Beijing. And that’s just pigs, never mind the countless other animals slaughtered for the meat industry.
 
 This week’s guest writer who is located in China, will look at what legislation is in place to protect the welfare of animals in the People’s Republic.
@@ -46,16 +48,6 @@ So long as China fails to recognise animal sentience the future looks bleak for 
 The coronavirus epidemic brought unsanitary conditions in Chinese wet markets to the world’s attention and it may be that outside pressure will result in legally sanctioned change – particularly following the in-country investigation WHO have been permitted to carry out post-epidemic. On the other hand, we’ve been here before with SARS in 2003 and the issues were forgotten as the epidemic faded.
 
 On a more positive note, however more young people in China are recognising animal sentience and some are pushing for change. Only time will tell whether pressure from gradually changing public opinion and fear of further epidemics will prove sufficient to force new legislation.
-
-
-
-
-
-
-
-
-
-
 
 - - -
 
