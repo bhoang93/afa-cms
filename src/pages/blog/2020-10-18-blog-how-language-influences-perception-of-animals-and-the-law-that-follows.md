@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Blog: How Language Influences Perception of animals and the Law that Follows"
 date: 2020-08-06T17:00:11.002Z
 ---
-![Rabbit in front of log](/img/unnamed-5-.jpg "Blog: How Language Influences Perception of animals and the Law that Follows")
+![Rabbit in front of log](/img/jdr-.jpg "Blog: How Language Influences Perception of animals and the Law that Follows")
 
 <!--StartFragment-->
 
@@ -14,8 +14,6 @@ date: 2020-08-06T17:00:11.002Z
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-
-
 
 <!-- /wp:paragraph -->
 
@@ -39,8 +37,6 @@ This implies that words do not merely represent objects and living beings, words
 
 <!-- wp:paragraph -->
 
-
-
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -56,8 +52,6 @@ Animals are considered property because they have been characterised as being ob
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-
-
 
 <!-- /wp:paragraph -->
 
@@ -105,8 +99,6 @@ To exemplify, the [Strategic Plan for Biodiversity 2011-2020 and the Biodiversit
 
 <!-- wp:paragraph -->
 
-
-
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -128,8 +120,6 @@ In short, under law, the category of pest turns many animals into “non-member\
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-
-
 
 <!-- /wp:paragraph -->
 
