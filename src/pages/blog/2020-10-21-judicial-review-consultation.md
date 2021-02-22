@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Judicial Review Consultation
 date: 2020-10-21T14:39:10.196Z
 ---
-![Animal Groups call for Judical Review to be Protected]( "Judicial Review Consultation")
+![](/img/jdr-.jpg "Judicial Review Consultation")
 
 <!--StartFragment-->
 
