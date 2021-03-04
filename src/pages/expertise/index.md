@@ -8,7 +8,7 @@ areas:
       ## Freedom of Information
 
 
-      ![Crocodile](https://advocates-for-animals.com/static/media/animal3.12bca2a3.jpg)
+      ![Crocodile](/img/animal3.12bca2a3.jpg)
 
 
       Information is the lifeblood of any campaigning organisation. Without information to influence the public and politicians, change cannot be effected. This is particularly important with animal cruelty, most of which takes place behind closed doors. And, of course, animals cannot articulate what is done to them.
@@ -41,7 +41,7 @@ areas:
       Animal protection organisations with expertise in a relevant area will usually be accorded standing to bring a case and they may also be allowed to intervene in a case brought by someone else. In these ways, the animals’ voice can be heard. There are strict time limits for bringing a case.
 
 
-      ![Orangutan](https://advocates-for-animals.com/static/media/animal16.fefae6dd.jpg)
+      ![Orangutan](/img/animal16.fefae6dd.jpg)
 
 
       Legal costs can be an issue. However, in a public interest case it is often possible to get a protective costs order, which limits exposure to costs if a case is ultimately unsuccessful.
@@ -67,7 +67,7 @@ areas:
       Unfortunately, the playing field is rarely level. It can be very difficult to get the traditional media interested and, even when it is, facts may be distorted and prominence given to the views of industry and governments. All this reflects where power lies in society: monied interests dominate and the voice of exploited animals reduced to barely a whimper. It is all too common for suffering to be played down and organisations campaigning for greater protection to be misrepresented, even ridiculed.
 
 
-      ![Lion](https://advocates-for-animals.com/static/media/playingfield.8f534f22.jpg)
+      ![Lion](/img/playingfield.8f534f22.jpg)
 
 
       Judicious use of the law can, however, make a real difference. Because of the potential cost, libel proceedings should be considered as a last resort only but sometimes they may have to be contemplated, where an organisation’s reputation has been seriously traduced and loss can be shown. Often, the threat of proceedings can be used to extract a correction, which is usually all an organisation wants.
@@ -88,7 +88,7 @@ areas:
       ## Undercover investigations
 
 
-      ![Monkey](https://advocates-for-animals.com/static/media/undercover.09a65e3a.jpg)
+      ![Monkey](/img/undercover.09a65e3a.jpg)
 
 
       It is a truism that nearly all cruelty to animals happens behind closed doors. [Freedom of information](https://advocates-for-animals.com/expertise/freedom-of-information) laws and other techniques can help lift the lid but unquestionably the most effective way is via undercover investigations. Undertaken properly, they can be hugely beneficial in advancing animal protection. An image is worth a thousand words and video footage hard to dispute.
@@ -110,7 +110,7 @@ areas:
       Animal protection law is any law which affects the welfare of animals. It is distinct from animal health law which is really designed to protect human beings or other animals and the law assigning liability for damage caused by one’s animals, although each of these can have welfare implications too.
 
 
-      ![Monkey](https://advocates-for-animals.com/static/media/protection.c509be8f.jpg)
+      ![Monkey](/img/protection.c509be8f.jpg)
 
 
       A great deal of UK animal protection law comes from the European Union and that will continue to be the case whatever happens with Brexit. A huge swathe of EU legislation has an impact on animals. There are several other international treaties which affect animals, too, such as the World Trade Organisation, the Convention on the Trade in Endangered Species (CITES), the Convention on the Conservation of European Wildlife and Natural Habitats (the Bern Convention) and the World Organisation for Animal Health (OIE). There is burgeoning caselaw arising out of many of these, some of it highly technical.
