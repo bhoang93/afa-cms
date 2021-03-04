@@ -27,8 +27,8 @@ class AboutUs extends React.Component {
   };
 
   render() {
-    const aboutUsProfile = this?.props?.data.aboutUs.edges[0].node.frontmatter
-      .member;
+    const aboutUsProfile = this?.props?.data?.aboutUs?.edges[0]?.node
+      ?.frontmatter?.member;
 
     return (
       <Wrapper>
@@ -93,9 +93,7 @@ export const pageQuery = graphql`
           frontmatter {
             member {
               body
-              image {
-                relativePath
-              }
+              image
               name
             }
           }
