@@ -93,7 +93,9 @@ export const pageQuery = graphql`
           frontmatter {
             member {
               body
-              image
+              image {
+                relativePath
+              }
               name
             }
           }
