@@ -66,7 +66,7 @@ class FullBlogPost extends React.Component {
           </a>
         </div>
 
-        <a className="full-blog-post__go-back" to={"/news"}>
+        <a className="full-blog-post__go-back" to={"/blog"}>
           Go Back
         </a>
       </div>

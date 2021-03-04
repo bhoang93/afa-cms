@@ -59,7 +59,7 @@ export const BlogPostTemplate = ({
         </a>
       </div>
 
-      <Link className="full-blog-post__go-back" to={"/blog"}>
+      <Link className="full-blog-post__go-back" to={"/news"}>
         Go Back
       </Link>
     </div>
