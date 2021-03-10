@@ -24,3 +24,7 @@ The application of utilitarianism can be useful when considering animal welfare 
 **Conclusion**
 
 On an individual level there are clearly pros and cons of the theory, and application can prove complicated. Arguably, we should perhaps instead consider applying aspects from various philosophical theories, rather than siding with a single belief, to both further the interests of, and protect animals from human use in future.
+
+**Getting Advice**
+
+This post is not legal advice and should not be relied on as such. If you require legal advice on animal protection laws please contact info@advocates-for-animals.com
