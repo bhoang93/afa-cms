@@ -5,7 +5,7 @@ date: 2021-03-10T20:28:05.788Z
 ---
 ![](/img/al.jpg)
 
-This week guest writer, **Hayley Lynes** will look at what utilitarianism means for animal welfare.
+This week guest writer, **Hayley Lynes,** will look at what utilitarianism means for animal welfare.
 
 **What is utilitarianism?**
 
