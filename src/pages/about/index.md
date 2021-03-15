@@ -82,7 +82,7 @@ member:
 ---
 ### Mission
 
-The To help clients hold to account not only people who break the law but also governments and other bodies charged with enforcing it
+To help clients hold to account not only people who break the law but also governments and other bodies charged with enforcing it
 
 ### Vision
 
