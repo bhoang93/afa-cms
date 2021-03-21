@@ -3,6 +3,8 @@ templateKey: blog-post
 title: "Case Summary: Lubrizol and others v European Chemicals Agency"
 date: 2021-03-21T10:00:57.360Z
 ---
+![](/img/blog-picjpg.jpg)
+
 17 March 2021 by David Thomas \
 \
 **Introduction**
