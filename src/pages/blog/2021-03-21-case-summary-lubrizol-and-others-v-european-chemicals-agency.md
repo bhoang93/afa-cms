@@ -7,7 +7,7 @@ date: 2021-03-21T10:00:57.360Z
 
 17 March 2021 by David Thomas \
 \
-**Introduction**
+**Facts**
 
 These were 14 joined appeals brought by companies manufacturing chemicals known as ZDDP, which are used in hydraulic fluids.
 
@@ -27,11 +27,11 @@ ECHA disagreed. Hence the appeal to the Board of Appeal which is attached to ECH
 
 Advocates for Animals’ client Cruelty Free Europe was given permission to intervene in the appeal.
 
-***The Decision***
+**Held**
 
 The Board of Appeal allowed all the appeals (save with regard to the final substance).
 
-The Board rejected most of the companies’ arguments. In particular, it said that ECHA had not followed an unfair process and had not prematurely moved from informal discussions to the formal parts of the process. ECHA had been entitled to reject the read-across based on its scientific assessment.
+The Board rejected most of the companies’ arguments. In particular, it said that ECHA had not followed a fair process and had not prematurely moved from informal discussions to the formal parts of the process. ECHA had been entitled to reject the read-across based on its scientific assessment.
 
 However, the Board decided that the decisions should indeed have been addressed to all the registrants. The other registrants had been deprived of the benefit of Article 53, which sets out data and cost-sharing rules.
 
