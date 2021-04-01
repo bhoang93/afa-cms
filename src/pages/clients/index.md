@@ -149,4 +149,14 @@ quotes:
 
       Advocates For Animals is long overdue and Respect for Animals would have no hesitation in instructing this firm in the future.
     author: Respect for Animals
+  - quote: Animal Justice Project has worked with Edie and David at Advocates for
+      Animals on our most high-profile campaign to date. In some tough times,
+      they have protected our organisation and enabled us to tackle animal
+      industries head on. Their legal skills are superb, providing important
+      advice on how to mitigate risk, which is particularly important for our
+      pressure campaigns. Their unwavering passion for animals makes them
+      perfect partners for us. Animal Justice Project is so grateful to
+      Advocates for all the work they have carried out with us so far, and would
+      have absolutely no hesitation in recommending them to other animal NGOs.
+    author: Animal Justice Project
 ---
