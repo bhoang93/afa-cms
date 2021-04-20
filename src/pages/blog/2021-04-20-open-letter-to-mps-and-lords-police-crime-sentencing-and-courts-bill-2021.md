@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "Open letter to MPs and Lords: Police, Crime, Sentencing and Courts Bill 2021"
 date: 2021-04-15T08:20:09.939Z
 ---
-![]()
+
 
 Dear Members of Parliament and the House of Lords
 
