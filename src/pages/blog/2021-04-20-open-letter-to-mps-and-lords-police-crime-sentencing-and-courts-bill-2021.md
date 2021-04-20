@@ -24,7 +24,10 @@ Protest
 9. Under The Bill the noise generated in a protest could amount to a relevant impact on persons in the vicinity if it “may result in the intimidation or harassment of persons of reasonable firmness” or if “it may cause such persons to suffer serious unease, alarm or distress”.
 10. Through the Home office, the Government is given the power to define what the phrases “serious disruption to the activities of an organisation which are carried on in the vicinity” and “serious disruption to the life of the community” mean for the purposes of the Public Order Act. This can be done without thorough parliamentary scrutiny.
 
+**\
+
 Nuisance
+**\
 
 11. Further, the new proposal for nuisance is also of concern and could have implications for those who protest in various ways against animal cruelty.
 12. The offence of public nuisance is interpreted under the common law (ie judge-made law) and is understood as:
@@ -63,11 +66,11 @@ Nuisance
 
 14. This is a vast broadening of the previous law. Firstly there no longer needs to be intention to commit a nuisance, just recklessness. It is also enough to prove an offence has been committed if you simply cause serious annoyance or inconvenience or damage to property that does not need to be serious. In addition, no one has to suffer anything, there just needs to be the risk of suffering it. Its scope has also been broadened to include nuisance to “a section of the public” rather than the current requirement of “the public.” This offence carries a maximum sentence of ten years.
 
-
+**\
 
 **General Remarks**
 
-
+**\
 
 15. It is trite but true to say that animals cannot speak for themselves. As such any progress to the welfare and protection of animals is made possible by individuals and organisations speaking out on their behalf. Animals already do not have standing in our courts, so to muffle their mouthpiece in a public arena only puts these vulnerable beings further at risk.
 16. The role of animal protection organisations is to give voice to their constituencies, which might otherwise have no means of challenging unlawfulness by public bodies. Their constituencies are the many members of the public concerned about animal welfare and, of course, the animals themselves.
@@ -75,11 +78,11 @@ Nuisance
 18. Every animal activist and group, no matter how moderate, could think of how any of their protest activities may lead to unease or distress; after all explaining what animals go through can be distressing to hear. It is also true that many activists' activities are seen as a serious inconvenience or annoyance, especially to those who wish to hide what is going on.
 19. The serious concern with the nuisance provision is that the terms are so vague; we imagine any controversial animal industry or abuser is “seriously annoyed” by the activities of animal groups and activists. The activities the signatories are concerned with losing are peaceful protest in all its forms without the risk of being guilty of an offence for causing offence.
 
-
+**\
 
 **Unlawful Curtailment**
 
-
+**\
 
 20. The proposed changes run a serious and real risk of falling foul of the Human Rights Act 2008 which puts into domestic law the European Convention on Human Rights (ECHR).
 21. The most notable risks include a threat to freedom of expression (Article 10), a threat to freedom of peaceful assembly (Article 11) and for some animal groups and activists a threat to freedom of belief (Article 9), where the manifestation of a belief is also protected.
@@ -97,17 +100,17 @@ And:
 
 23. It is unlawful for any public body in the United Kingdom to act contrary to the ECHR. Further, Acts of Parliament can be deemed incompatible with the ECHR by the courts.
 
-
+**\
 
 **Request:**
 
-
+**\
 
 24. For the above reasons we ask that you vote against the current version of the Bill until the offending provisions relating to protest and nuisance are removed.
 
+**\
 
-
-
+**\
 
 Kind regards
 
@@ -116,7 +119,8 @@ Edie Bowles
 Solicitor
 
 
-
+**\
+**\
 
 
 **Annex**
