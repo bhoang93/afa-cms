@@ -14,7 +14,7 @@ Dear Members of Parliament and the House of Lords
 **\
 Areas of Concern in the Bill**
 
-Protest
+*Protest*
 
 4. Protests already have rigorous requirements placed on them, the police can impose conditions on marches and demonstrations and can even ban a demonstration or march with the approval of the local authority and the Home Secretary.
 5. The police also already have a range of powers they can rely on to ensure a protest is kept under control. For example, it is already an offence to use threatening or abusive words or behaviour or to display any sign which is threatening or abusive under the Public Order Act 1986.
@@ -26,7 +26,7 @@ Protest
 
 
 
-Nuisance
+*Nuisance*
 
 11. Further, the new proposal for nuisance is also of concern and could have implications for those who protest in various ways against animal cruelty.
 12. The offence of public nuisance is interpreted under the common law (ie judge-made law) and is understood as:
