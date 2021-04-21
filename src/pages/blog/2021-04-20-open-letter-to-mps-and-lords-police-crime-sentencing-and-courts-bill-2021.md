@@ -24,9 +24,10 @@ Protest
 9. Under The Bill the noise generated in a protest could amount to a relevant impact on persons in the vicinity if it “may result in the intimidation or harassment of persons of reasonable firmness” or if “it may cause such persons to suffer serious unease, alarm or distress”.
 10. Through the Home office, the Government is given the power to define what the phrases “serious disruption to the activities of an organisation which are carried on in the vicinity” and “serious disruption to the life of the community” mean for the purposes of the Public Order Act. This can be done without thorough parliamentary scrutiny.
 
-\*
+*
 
 Nuisance
+
 *
 
 11. Further, the new proposal for nuisance is also of concern and could have implications for those who protest in various ways against animal cruelty.
