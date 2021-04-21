@@ -24,16 +24,14 @@ Protest
 9. Under The Bill the noise generated in a protest could amount to a relevant impact on persons in the vicinity if it “may result in the intimidation or harassment of persons of reasonable firmness” or if “it may cause such persons to suffer serious unease, alarm or distress”.
 10. Through the Home office, the Government is given the power to define what the phrases “serious disruption to the activities of an organisation which are carried on in the vicinity” and “serious disruption to the life of the community” mean for the purposes of the Public Order Act. This can be done without thorough parliamentary scrutiny.
 
-*
-
 Nuisance
-
-*
 
 11. Further, the new proposal for nuisance is also of concern and could have implications for those who protest in various ways against animal cruelty.
 12. The offence of public nuisance is interpreted under the common law (ie judge-made law) and is understood as:
 
 *A person is guilty of a public nuisance who (a) does an act not warranted by law, or (b) omits to discharge a legal duty, if the effect of the act or omission is to endanger the life, health, property or comfort of the public, or to obstruct the public in the exercise or enjoyment of rights common to all Her Majesty’s subjects.*
+
+
 
 13. The Bill aims to change the offence as follows:
 
@@ -64,6 +62,8 @@ Nuisance
 *(d) is put at risk of suffering anything mentioned in paragraphs (a) to (c).*
 
 *(3) It is a defence for a person charged with an offence under subsection (1) to prove that they had a reasonable excuse for the act or omission mentioned in paragraph (a) of that subsection.*
+
+
 
 14. This is a vast broadening of the previous law. Firstly there no longer needs to be intention to commit a nuisance, just recklessness. It is also enough to prove an offence has been committed if you simply cause serious annoyance or inconvenience or damage to property that does not need to be serious. In addition, no one has to suffer anything, there just needs to be the risk of suffering it. Its scope has also been broadened to include nuisance to “a section of the public” rather than the current requirement of “the public.” This offence carries a maximum sentence of ten years.
 
@@ -115,9 +115,9 @@ Edie Bowles
 
 Solicitor
 
-*
 
-**Annex**
+
+* **Annex**
 
 Animal Aid
 
