@@ -25,8 +25,10 @@ Areas of Concern in the Bill**
 10. Through the Home office, the Government is given the power to define what the phrases “serious disruption to the activities of an organisation which are carried on in the vicinity” and “serious disruption to the life of the community” mean for the purposes of the Public Order Act. This can be done without thorough parliamentary scrutiny.
 
 
-
+\
 *Nuisance*
+
+
 
 11. Further, the new proposal for nuisance is also of concern and could have implications for those who protest in various ways against animal cruelty.
 12. The offence of public nuisance is interpreted under the common law (ie judge-made law) and is understood as:
@@ -119,9 +121,9 @@ Solicitor
 
 
 
-* **Annex**
+**Annex**
 
-
+\
 Animal Aid
 
 Animal Equality UK
