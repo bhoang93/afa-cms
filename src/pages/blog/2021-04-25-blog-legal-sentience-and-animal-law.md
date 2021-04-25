@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Blog: Legal sentience and animal law      "
+title: "Blog: Legal Sentience and Animal Law      "
 date: 2021-04-25T20:38:53.086Z
 ---
 ![](/img/sentience.jpg)
