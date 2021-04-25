@@ -5,8 +5,6 @@ date: 2021-04-25T20:38:53.086Z
 ---
 ![](/img/sentience.jpg)
 
-This week guest writer **Luiza Calvin** will look at the recognition of sentience in Law.
-
 Jurisdictions around the world are increasingly reforming their legislation to extend the concept of sentience to animals. Sentience can be described as the ability to perceive one’s [environment](https://www.researchgate.net/publication/334461131_Welfare-aligned_Sentience_Enhanced_Capacities_to_Experience_Interact_Anticipate_Choose_and_Survive), and the experience of positive or [negative](https://www.mdpi.com/2076-2615/8/10/174) emotion such as pleasure and pain. Other more complex [theories of sentience](https://www.sentienceinstitute.org/blog/what-is-sentience) involve theories of the mind, metacognition and self-awareness. Guest writer Luiza Calvin will explore how this is provided for in the law.
 
 **The Challenges of Defining Sentience in Legislation**
