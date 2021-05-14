@@ -5,7 +5,7 @@ date: 2021-05-14T11:15:58.685Z
 ---
 ![](/img/doggie.jpg)
 
-[R (The Electronic Collar Manufacturers Association and Petsafe) v DEFRA \[2021] EWCA Civ 666](https://www.bailii.org/ew/cases/EWCA/Civ/2021/666.html)
+\[R (The Electronic Collar Manufacturers Association and Petsafe) v DEFRA [2021] EWCA Civ 666](https://www.bailii.org/ew/cases/EWCA/Civ/2021/666.html)
 
 Sam March\
 14 May 2021
@@ -27,6 +27,7 @@ There were five grounds of appeal in the claim for, which the court at paragraph
 1. whether DEFRA’s decision was “Wednesbury” irrational (meaning so unreasonable that no reasonable decision maker could have come to it); and
 2. whether the decision was disproportionate to the appellant’s property rights protected by Article 1 of Protocol 1 ('A1P1') to the European Convention on Human Rights ('the ECHR') and by Article 34 of the Treaty on the Functioning of the European Union ('the TFEU').
 
+\
 **Irrationality**
 
 The Appellants alleged that DEFRA’s decision was outside the range of reasonable responses open to it in the circumstances. This rested on two main arguments: first, it said that there was an irrational inconsistency between the Secretary of State's approach between shock collars and containment systems (such as electric fences); and second it was alleged that an abrupt change of position on the matter by the Secretary of State was irrational. Neither of these arguments found favour with the court.
