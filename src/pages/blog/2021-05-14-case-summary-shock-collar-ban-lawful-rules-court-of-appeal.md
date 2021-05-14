@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Case Summary: Shock collar ban lawful, rules Court of Appeal"
+title: "Case Summary: Shock Collar Ban Lawful, Rules Court of Appeal"
 date: 2021-05-14T11:15:58.685Z
 ---
 ![](/img/doggie.jpg)
