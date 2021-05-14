@@ -10,7 +10,7 @@ date: 2021-05-14T11:15:58.685Z
 Sam March\
 14 May 2021
 
-Dismissing an appeal brought by The Electronic Collar Manufacturers Association and Petsafe, the Court of Appeal ruled on 11 May 2021 that the ban on electronic shock collars was neither irrational, nor violated property rights.
+Dismissing an appeal brought by The Electronic Collar Manufacturers Association and Petsafe, the Court of Appeal ruled on 11 May 2021 that the proposed ban on electronic shock collars was neither irrational, nor violated property rights.
 
 **Background**
 
