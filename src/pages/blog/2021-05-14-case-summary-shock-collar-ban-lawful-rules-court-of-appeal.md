@@ -58,4 +58,4 @@ The court also doubted whether there was really an interference with the Appella
 
 **Commentary**
 
-We welcome this common sense judgment from the Court of Appeal. Defra has the power to promote animal welfare via regulations under the Animal Welfare Act, which is exactly what is intended in this case. The nature of the challenge is entirely transparent, this being the placement of commercial interest above the welfare of dogs and cats. Edie Bowles, Advocates for Animals.
+We welcome this common sense judgment from the Court of Appeal. Defra has the power to promote animal welfare via regulations under the Animal Welfare Act, which is exactly what is intended in this case. The nature of the challenge was entirely transparent, this being the placement of commercial interest above the welfare of dogs and cats. Edie Bowles, Advocates for Animals.
