@@ -159,4 +159,12 @@ quotes:
       Advocates for all the work they have carried out with us so far, and would
       have absolutely no hesitation in recommending them to other animal NGOs.
     author: Animal Justice Project
+  - quote: Advocates for Animals have provided us with invaluable legal advice and
+      helped us shape our campaign strategies. They have equipped us with the
+      knowledge and confidence to use legal tactics we would otherwise not have
+      considered and bring a wealth of expertise in supporting organisations in
+      the campaigning sphere. We would not hesitate to recommend Advocates for
+      Animals to organisations who want to use the law to fight for change for
+      animals.
+    author: "World Animal Protection "
 ---
