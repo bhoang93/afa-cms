@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Blog:Animal Protection Laws from Around the World: Finland"
+title: "Animal Protection Laws from Around the World: Finland"
 date: 2021-01-05T18:39:00.044Z
 ---
 ![Brown Bear](/img/brown-bear-planin.jpg)
