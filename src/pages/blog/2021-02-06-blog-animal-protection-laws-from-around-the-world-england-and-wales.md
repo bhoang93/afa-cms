@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Blog: Animal Protection Laws from Around the World: England and Wales"
+title: "Animal Protection Laws from Around the World: England and Wales"
 date: 2020-12-28T18:35:21.196Z
 ---
 ![Wild Cat](/img/wildcat.jpg)
