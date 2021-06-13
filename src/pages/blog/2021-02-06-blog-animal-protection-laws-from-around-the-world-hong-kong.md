@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Blog: Animal Protection Laws from Around the World: Hong Kong"
+title: "Animal Protection Laws from Around the World: Hong Kong"
 date: 2020-11-13T18:17:15.840Z
 ---
 
