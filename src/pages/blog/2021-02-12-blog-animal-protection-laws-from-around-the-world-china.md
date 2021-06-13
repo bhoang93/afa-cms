@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Blog: Animal Protection Laws from Around the World: China"
+title: "Animal Protection Laws from Around the World: China"
 date: 2021-02-12T13:14:17.685Z
 ---
 ![](/img/china-artcile-image.jpg)
