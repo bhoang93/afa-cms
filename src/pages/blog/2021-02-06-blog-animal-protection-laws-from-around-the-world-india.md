@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Blog: Animal Protection Laws from Around the World: India"
+title: "Animal Protection Laws from Around the World: India"
 date: 2020-11-27T18:29:50.270Z
 ---
 ![](/img/asian-elehant-.jpg)
