@@ -66,7 +66,7 @@ member:
       # Alice Collinson
 
 
-      Alice is a solicitor with a particular interest in international wildlife protection law.She has worked as a legal consultant with many leading animal welfare and conservation organisations in the UK and abroad, following an international Animal Law masters (LL.M) from Lewis and Clark Law School in the U.S, and 6 years as a civil litigation lawyer in London. She has provided legal training on captive animal legislation as a former trustee with Freedom for Animals and has supported the UK Centre for Animal Law student team. She sits on the British Veterinary Association’s Ethics and Welfare Advisory Panel.
+      Alice is a solicitor with a particular interest in international wildlife protection law.She has worked as a legal consultant with many leading animal welfare and conservation organisations in the UK and abroad, following an international Animal Law masters (LL.M) from Lewis and Clark Law School in the U.S, and 6 years as a civil litigation lawyer in London. She has provided legal training on captive animal legislation as a former trustee with Freedom for Animals, has supported the UK Centre for Animal Law student team and sat on the British Veterinary Association’s Ethics and Welfare Advisory Panel.
 
 
       ### How did you get into animal protection?
