@@ -167,4 +167,8 @@ quotes:
       Animals to organisations who want to use the law to fight for change for
       animals.
     author: "World Animal Protection "
+  - quote: We enjoy working with Advocates for Animals as our partners to help
+      advance farm animal welfare. They are professional and provide excellent
+      legal expertise in our specialised sector.
+    author: "Conservative Animal Welfare Foundation "
 ---
