@@ -3,25 +3,6 @@ templateKey: about-page
 path: /about
 title: About our values
 member:
-  - image: /img/david_thomas.jpg
-    name: David Thomas
-    body: >-
-      # David Thomas
-
-
-      David is a solicitor and part-time judge. He has acted for nearly all the major animal protection organisations in the UK (and beyond) and is highly experienced in EU and international animal law, including trade law. He has also acted extensively in human rights cases (which can be relevant to animal protection law), much of it again international, and public law more generally.He is a fellow of the Oxford Centre for Animal Ethics, a former chair of the RSPCA (currently a trustee) and a former director of Cruelty Free International and Compassion in World Farming. He has written extensively about animal protection law and ethics and taken part in numerous presentations, debates and media appearances. He gave oral evidence to the Burns Inquiry on hunting and has given oral testimony to several parliamentary committees and a Royal Commission as well as holding countless meetings with ministers and officials. He has been a member of European Commission and UK government panels and is an experienced teacher of law.
-
-
-      ### How did you get into animal protection?
-
-
-      I have had an interest since a young age. I ran RSPCA Cardiff Dog's Home as an 18 year old volunteer before going to uni. I have always believed that one assesses injustice by its effect on the victim, not on the victim's identity, Sadly humankind's inhumanity to humankind, terrible though it is, is dwarfed by humanity's inhumanity to other animals. Society should fight injustice wherever it finds it and I have also done a lot of human rights legal work.
-
-
-      ### Why do you care about animal law?
-
-
-      I believe that the law - working in close harmony with science, investigative skills, ethical argument, campaigning and lobbying - can make a huge difference to the welfare of animals, through creative deployment at each stage of the campaigning process. Ultimately, though education has a vital role, the best protection is through well-drawn, philosophically consistent, properly interpreted and rigorously enforced legislation.
   - image: /img/ediebowles.jpg
     name: Edie Bowles
     body: >-
@@ -41,6 +22,25 @@ member:
 
 
       Despite all the incredible attributes animals possess and their sentience, they are extremely vulnerable in our society, it is therefore essential that a framework is in place to prevent certain treatment. You do not have to be an animal lover or an activist in this area to recognise that animals deserve protection under the law and that those laws need to be enforced.
+  - image: /img/david_thomas.jpg
+    name: David Thomas
+    body: >-
+      # David Thomas
+
+
+      David is a solicitor and part-time judge. He has acted for nearly all the major animal protection organisations in the UK (and beyond) and is highly experienced in EU and international animal law, including trade law. He has also acted extensively in human rights cases (which can be relevant to animal protection law), much of it again international, and public law more generally.He is a fellow of the Oxford Centre for Animal Ethics, a former chair of the RSPCA (currently a trustee) and a former director of Cruelty Free International and Compassion in World Farming. He has written extensively about animal protection law and ethics and taken part in numerous presentations, debates and media appearances. He gave oral evidence to the Burns Inquiry on hunting and has given oral testimony to several parliamentary committees and a Royal Commission as well as holding countless meetings with ministers and officials. He has been a member of European Commission and UK government panels and is an experienced teacher of law.
+
+
+      ### How did you get into animal protection?
+
+
+      I have had an interest since a young age. I ran RSPCA Cardiff Dog's Home as an 18 year old volunteer before going to uni. I have always believed that one assesses injustice by its effect on the victim, not on the victim's identity, Sadly humankind's inhumanity to humankind, terrible though it is, is dwarfed by humanity's inhumanity to other animals. Society should fight injustice wherever it finds it and I have also done a lot of human rights legal work.
+
+
+      ### Why do you care about animal law?
+
+
+      I believe that the law - working in close harmony with science, investigative skills, ethical argument, campaigning and lobbying - can make a huge difference to the welfare of animals, through creative deployment at each stage of the campaigning process. Ultimately, though education has a vital role, the best protection is through well-drawn, philosophically consistent, properly interpreted and rigorously enforced legislation.
   - name: Jay Staker
     image: /img/screenshot-2021-02-17-at-16.07.38.png
     body: >-
@@ -96,4 +96,4 @@ To live in a world where animals are protected by philosophically consistent law
 * Passion for animal justice
 * Compassion and understanding towards everyone
 
-![bear](https://advocates-for-animals-cms.netlify.app/admin/static/animal1-bef6a1e509dc5a250c5c696f2a81dc3e.jpg) **Advocates for Animals** is the first UK law firm dedicated to animal protection. It is a not for profit set up by **David Thomas** and **Edie Bowles**, two solicitors with vast combined experience in animal protection law. Before 1822 in this country – as in many countries around the world still – there was no law to protect animals. A man could beat his horse to death simply because it was his.  The supervening two centuries have seen a large swathe of animal protection legislation, some of it very good. But there is indisputably **far more cruelty** caused to animals by human beings today than two hundred years ago. Attitudes are generally more enlightened, and there is less domestic cruelty, but technological developments mean that we can do things to animals today that we could not hitherto – in factory farms (where literally billions languish), in laboratories and so forth, far from public gaze. Millions of animals are transported as cargo across the world for various purposes.   It is therefore essential that animal protection NGOs make maximum use of the tools at their disposal, as environmental groups and many social justice organisations already do very effectively. **Advocates for Animals** is committed to the creative use of the law – alongside investigations, science, lobbying, social and traditional media – to make a huge difference to the lives of animals. Advocates for Animals will not act against an animal group or an animal activist unless the matter involves an animal protection issue.
+![bear](https://advocates-for-animals-cms.netlify.app/admin/static/animal1-bef6a1e509dc5a250c5c696f2a81dc3e.jpg) **Advocates for Animals** is the first UK law firm dedicated to animal protection. It is a not for profit set up by **Edie Bowles** and **David Thomas**, two solicitors with vast combined experience in animal protection law. Before 1822 in this country – as in many countries around the world still – there was no law to protect animals. A man could beat his horse to death simply because it was his.  The supervening two centuries have seen a large swathe of animal protection legislation, some of it very good. But there is indisputably **far more cruelty** caused to animals by human beings today than two hundred years ago. Attitudes are generally more enlightened, and there is less domestic cruelty, but technological developments mean that we can do things to animals today that we could not hitherto – in factory farms (where literally billions languish), in laboratories and so forth, far from public gaze. Millions of animals are transported as cargo across the world for various purposes.   It is therefore essential that animal protection NGOs make maximum use of the tools at their disposal, as environmental groups and many social justice organisations already do very effectively. **Advocates for Animals** is committed to the creative use of the law – alongside investigations, science, lobbying, social and traditional media – to make a huge difference to the lives of animals. Advocates for Animals will not act against an animal group or an animal activist unless the matter involves an animal protection issue.
