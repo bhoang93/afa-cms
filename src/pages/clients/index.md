@@ -148,7 +148,7 @@ quotes:
 
 
       Advocates For Animals is long overdue and Respect for Animals would have no hesitation in instructing this firm in the future.
-    author: Respect for Animals
+    author: "- Respect for Animals"
   - quote: Animal Justice Project has worked with Edie and David at Advocates for
       Animals on our most high-profile campaign to date. In some tough times,
       they have protected our organisation and enabled us to tackle animal
@@ -158,7 +158,7 @@ quotes:
       perfect partners for us. Animal Justice Project is so grateful to
       Advocates for all the work they have carried out with us so far, and would
       have absolutely no hesitation in recommending them to other animal NGOs.
-    author: Animal Justice Project
+    author: "- Animal Justice Project"
   - quote: Advocates for Animals have provided us with invaluable legal advice and
       helped us shape our campaign strategies. They have equipped us with the
       knowledge and confidence to use legal tactics we would otherwise not have
@@ -166,16 +166,16 @@ quotes:
       the campaigning sphere. We would not hesitate to recommend Advocates for
       Animals to organisations who want to use the law to fight for change for
       animals.
-    author: "World Animal Protection "
+    author: "- World Animal Protection "
   - quote: We enjoy working with Advocates for Animals as our partners to help
       advance farm animal welfare. They are professional and provide excellent
       legal expertise in our specialised sector.
-    author: "Conservative Animal Welfare Foundation "
+    author: "- Conservative Animal Welfare Foundation "
   - quote: >+
       The service was professional, understanding, kind, supportive,
       knowledgeable and a real comfort in one of the most stressful times of my
       life. Advocates for Animals provided a top notch service from start to
       finish and was there 7 days a week.
 
-    author: Sammy Cullis
+    author: -Ms Cullis
 ---
