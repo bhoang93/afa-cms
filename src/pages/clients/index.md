@@ -171,4 +171,11 @@ quotes:
       advance farm animal welfare. They are professional and provide excellent
       legal expertise in our specialised sector.
     author: "Conservative Animal Welfare Foundation "
+  - quote: >+
+      The service was professional, understanding, kind, supportive,
+      knowledgeable and a real comfort in one of the most stressful times of my
+      life. Advocates for Animals provided a top notch service from start to
+      finish and was there 7 days a week.
+
+    author: Sammy Cullis
 ---
