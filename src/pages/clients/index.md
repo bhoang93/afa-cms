@@ -177,5 +177,5 @@ quotes:
       life. Advocates for Animals provided a top notch service from start to
       finish and was there 7 days a week.
 
-    author: -Ms Cullis
+    author: "- Louisa Wren"
 ---
